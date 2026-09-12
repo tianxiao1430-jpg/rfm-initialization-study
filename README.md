@@ -98,3 +98,7 @@ AI-assistance statement. Codex assisted experiment planning, code, execution,
 analysis, checking and writing. Numerical claims refer to saved program outputs;
 independent peer review is not claimed. See [LICENSES.md](LICENSES.md), the GPL
 [LICENSE](LICENSE), and each study's original notices for upstream attribution.
+
+## Hugging Face
+
+[Research description and download index](https://huggingface.co/datasets/tianxiao1430-jpg/rfm-initialization-study) are also public on Hugging Face. Complete archives are hosted in the GitHub release; the Hugging Face file mirror is pending.

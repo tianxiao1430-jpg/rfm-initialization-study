@@ -17,3 +17,7 @@
 新设置下一直正确。当前没有可核实的公开arXiv编号或同行评审录用声明。
 
 源码保留GPL-3.0及上游署名；论文保留原作者贡献与AI辅助说明。
+
+## Hugging Face
+
+[研究介绍与下载入口](https://huggingface.co/datasets/tianxiao1430-jpg/rfm-initialization-study)已在 Hugging Face 公开。完整数据包目前通过 GitHub Release 下载；Hugging Face 文件镜像尚未上传完成。
