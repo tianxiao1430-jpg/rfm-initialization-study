@@ -1,0 +1,32 @@
+{
+  "status": "completed",
+  "config": {
+    "p": 17,
+    "seed": 1,
+    "kind": "mode_pair",
+    "epsilon": 0.002,
+    "amount": 3,
+    "formula": "code",
+    "centering": true,
+    "eig_cutoff": 0.0,
+    "ridge": 0.0,
+    "bandwidth": 2.5,
+    "iterations": 60,
+    "device": "cuda",
+    "dtype": "float64",
+    "timeout": 600
+  },
+  "n_rows": 60,
+  "final": {
+    "iteration": 59,
+    "acc": 1.0,
+    "mse": 0.05528851804485287,
+    "mean_margin": 0.00023884053688131142,
+    "min_margin": 0.00023881396559780055,
+    "relative_residual": 3.708474772459162e-14,
+    "symmetry_defect": 0.07729260975540767,
+    "elapsed_s": 0.9802689759999996
+  },
+  "error": null,
+  "elapsed_s": 1.0084303959999996
+}

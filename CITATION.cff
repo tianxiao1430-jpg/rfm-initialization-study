@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and this reproducible research artifact."
+type: software
+title: "RFM Initialization: Sign Interactions and Selection Controls"
+authors:
+  - family-names: "Tian"
+    given-names: "Xiao"
+version: "1.0.0"
+date-released: "2026-09-12"
+repository-code: "https://github.com/tianxiao1430-jpg/rfm-initialization-study"
+url: "https://github.com/tianxiao1430-jpg/rfm-initialization-study"
+abstract: "Setting-specific Gaussian RFM modular-addition experiments, a manuscript, and a separate budget-matched initialization-selection pilot."

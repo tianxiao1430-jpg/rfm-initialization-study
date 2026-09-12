@@ -1,0 +1,13 @@
+{
+  "python": "3.12.3",
+  "torch": "2.13.0+cu132",
+  "numpy": "2.5.2",
+  "cuda": "13.2",
+  "gpu": "NVIDIA GeForce RTX 4070",
+  "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "threads": 1,
+  "tf32": false,
+  "TORCH_DISABLE_NATIVE_JIT": "1",
+  "source_sha256": "7264f49a08511c948f1cace31d8cadcd447879a8c9ce850ebaa22839773f38cb",
+  "v2_source_sha256": "9829f46c2ce806eeba0e3522f1b933bb1e53ba0f2edaa7b3808265106481069c"
+}

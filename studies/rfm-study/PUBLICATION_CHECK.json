@@ -1,0 +1,24 @@
+{
+  "runs": 844,
+  "per_step_records": 47940,
+  "confirmation": {
+    "17": {
+      "directions": 50,
+      "mae_pp": 4.223147659128112,
+      "mean_accuracy_percent": 78.3529411764706
+    },
+    "23": {
+      "directions": 30,
+      "mae_pp": 6.5787293072095,
+      "mean_accuracy_percent": 85.21739130434783
+    }
+  },
+  "intervention": {
+    "phase_best": 97.6470588235294,
+    "phase_worst": 4.040920716112532,
+    "remove": 3.70843989769821,
+    "best_minus_worst": 93.60613810741688
+  },
+  "passed": true,
+  "scope": "Released CSV consistency and key manuscript values; no new training or independent implementation."
+}

@@ -1,0 +1,7 @@
+# 来源与执行披露
+
+基础RFM实现改编自[marceltomas/breaking-data-symmetries](https://github.com/marceltomas/breaking-data-symmetries)，上游commit 311273bfc08adcde344c8b021fc5aa8d9970ad98。保留GPL-3.0许可文件。vendor/rfm.py与上一轮冻结实现相同；SHA256为7264f49a08511c948f1cace31d8cadcd447879a8c9ce850ebaa22839773f38cb。
+
+vendor/numerical_v2.py是上一轮固定M读出核查程序的原样副本，SHA256为26846ab3cb7f96cf289f59168e30da85bcdff5842e6f9b8c5b141d837fbcc5a6。包装器只明确修改输出根目录，不改变数值算法。
+
+本轮计划、实现、运行、统计及初稿由Codex在用户授权下完成，使用用户的RTX 4070与WSL环境。数字来自保存的实际运行和脚本推算。未经人类研究者独立审阅，不填写虚构作者、机构或同行评审状态。模型辅助写作和实验实施应在后续公开论文中如实披露。

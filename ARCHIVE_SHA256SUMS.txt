@@ -1,0 +1,3 @@
+eeae8843e84dbb1f5e399b76a1ab85af044f6703131aa7244705d90c18450e6c  rfm-manuscript-compact.zip
+dda7463429dc0ff01281a5772d092d9d479191b78d636ee3df439e367819e8b8  rfm-mechanism-full.zip
+5d0ce3c42e869069519462dacf56bb56ff160113f6d481aece18ab095aa5947b  rfm-initialization-selection-full.zip

@@ -1,0 +1,482 @@
+[
+  {
+    "name": "p17_s100_cross",
+    "p": 17,
+    "seed": 100,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s101_cross",
+    "p": 17,
+    "seed": 101,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s102_cross",
+    "p": 17,
+    "seed": 102,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s103_cross",
+    "p": 17,
+    "seed": 103,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s104_cross",
+    "p": 17,
+    "seed": 104,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s105_cross",
+    "p": 17,
+    "seed": 105,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s106_cross",
+    "p": 17,
+    "seed": 106,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s107_cross",
+    "p": 17,
+    "seed": 107,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s108_cross",
+    "p": 17,
+    "seed": 108,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s109_cross",
+    "p": 17,
+    "seed": 109,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s110_cross",
+    "p": 17,
+    "seed": 110,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s111_cross",
+    "p": 17,
+    "seed": 111,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s112_cross",
+    "p": 17,
+    "seed": 112,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s113_cross",
+    "p": 17,
+    "seed": 113,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s114_cross",
+    "p": 17,
+    "seed": 114,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s115_cross",
+    "p": 17,
+    "seed": 115,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s116_cross",
+    "p": 17,
+    "seed": 116,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s117_cross",
+    "p": 17,
+    "seed": 117,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s118_cross",
+    "p": 17,
+    "seed": 118,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s119_cross",
+    "p": 17,
+    "seed": 119,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s120_cross",
+    "p": 17,
+    "seed": 120,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s121_cross",
+    "p": 17,
+    "seed": 121,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s122_cross",
+    "p": 17,
+    "seed": 122,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s123_cross",
+    "p": 17,
+    "seed": 123,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s124_cross",
+    "p": 17,
+    "seed": 124,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s125_cross",
+    "p": 17,
+    "seed": 125,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s126_cross",
+    "p": 17,
+    "seed": 126,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s127_cross",
+    "p": 17,
+    "seed": 127,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s128_cross",
+    "p": 17,
+    "seed": 128,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s129_cross",
+    "p": 17,
+    "seed": 129,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s130_cross",
+    "p": 17,
+    "seed": 130,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s131_cross",
+    "p": 17,
+    "seed": 131,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s132_cross",
+    "p": 17,
+    "seed": 132,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s133_cross",
+    "p": 17,
+    "seed": 133,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s134_cross",
+    "p": 17,
+    "seed": 134,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s135_cross",
+    "p": 17,
+    "seed": 135,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s136_cross",
+    "p": 17,
+    "seed": 136,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s137_cross",
+    "p": 17,
+    "seed": 137,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s138_cross",
+    "p": 17,
+    "seed": 138,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s139_cross",
+    "p": 17,
+    "seed": 139,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s140_cross",
+    "p": 17,
+    "seed": 140,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s141_cross",
+    "p": 17,
+    "seed": 141,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s142_cross",
+    "p": 17,
+    "seed": 142,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s143_cross",
+    "p": 17,
+    "seed": 143,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s144_cross",
+    "p": 17,
+    "seed": 144,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s145_cross",
+    "p": 17,
+    "seed": 145,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s146_cross",
+    "p": 17,
+    "seed": 146,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s147_cross",
+    "p": 17,
+    "seed": 147,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s148_cross",
+    "p": 17,
+    "seed": 148,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s149_cross",
+    "p": 17,
+    "seed": 149,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s100_cross",
+    "p": 23,
+    "seed": 100,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s101_cross",
+    "p": 23,
+    "seed": 101,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s102_cross",
+    "p": 23,
+    "seed": 102,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s103_cross",
+    "p": 23,
+    "seed": 103,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s104_cross",
+    "p": 23,
+    "seed": 104,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s105_cross",
+    "p": 23,
+    "seed": 105,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s106_cross",
+    "p": 23,
+    "seed": 106,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s107_cross",
+    "p": 23,
+    "seed": 107,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s108_cross",
+    "p": 23,
+    "seed": 108,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s109_cross",
+    "p": 23,
+    "seed": 109,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s110_cross",
+    "p": 23,
+    "seed": 110,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s111_cross",
+    "p": 23,
+    "seed": 111,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s112_cross",
+    "p": 23,
+    "seed": 112,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s113_cross",
+    "p": 23,
+    "seed": 113,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s114_cross",
+    "p": 23,
+    "seed": 114,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s115_cross",
+    "p": 23,
+    "seed": 115,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s116_cross",
+    "p": 23,
+    "seed": 116,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s117_cross",
+    "p": 23,
+    "seed": 117,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s118_cross",
+    "p": 23,
+    "seed": 118,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s119_cross",
+    "p": 23,
+    "seed": 119,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s120_cross",
+    "p": 23,
+    "seed": 120,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s121_cross",
+    "p": 23,
+    "seed": 121,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s122_cross",
+    "p": 23,
+    "seed": 122,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s123_cross",
+    "p": 23,
+    "seed": 123,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s124_cross",
+    "p": 23,
+    "seed": 124,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s125_cross",
+    "p": 23,
+    "seed": 125,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s126_cross",
+    "p": 23,
+    "seed": 126,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s127_cross",
+    "p": 23,
+    "seed": 127,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s128_cross",
+    "p": 23,
+    "seed": 128,
+    "kind": "cross"
+  },
+  {
+    "name": "p23_s129_cross",
+    "p": 23,
+    "seed": 129,
+    "kind": "cross"
+  }
+]

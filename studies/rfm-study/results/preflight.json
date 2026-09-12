@@ -1,0 +1,122 @@
+[
+  {
+    "p": 17,
+    "seed": 20,
+    "acc": 0.0,
+    "circulant_fraction": 0.04423443224681667,
+    "frequency_concentration": 0.5328045188952034,
+    "spectral_fraction": 0.15756519942749161,
+    "effective_rank": 8.782325939463792,
+    "centered_energy_fraction": 0.885211642057001,
+    "final_plus_minus_symmetric_coupling": 0.013656626017179041,
+    "final_plus_minus_skew_coupling": 0.2271484279567491
+  },
+  {
+    "p": 17,
+    "seed": 21,
+    "acc": 1.0,
+    "circulant_fraction": 0.09424188402263921,
+    "frequency_concentration": 0.5468486466794618,
+    "spectral_fraction": 0.168784410859588,
+    "effective_rank": 8.477913829911055,
+    "centered_energy_fraction": 0.9410244161403205,
+    "final_plus_minus_symmetric_coupling": 0.009770129331814835,
+    "final_plus_minus_skew_coupling": 0.32785260338175604
+  },
+  {
+    "p": 17,
+    "seed": 22,
+    "acc": 0.47058823529411764,
+    "circulant_fraction": 0.05383225746461883,
+    "frequency_concentration": 0.4806320448756682,
+    "spectral_fraction": 0.1738448992192148,
+    "effective_rank": 8.376314438057404,
+    "centered_energy_fraction": 0.8885245080594767,
+    "final_plus_minus_symmetric_coupling": 0.013451005992704273,
+    "final_plus_minus_skew_coupling": 0.2506801698275522
+  },
+  {
+    "p": 17,
+    "seed": 23,
+    "acc": 0.0,
+    "circulant_fraction": 0.0651062061397667,
+    "frequency_concentration": 0.58061474210021,
+    "spectral_fraction": 0.1602749453016327,
+    "effective_rank": 8.762453483710564,
+    "centered_energy_fraction": 0.8458899827139046,
+    "final_plus_minus_symmetric_coupling": 0.01577345997037212,
+    "final_plus_minus_skew_coupling": 0.2746804099029153
+  },
+  {
+    "p": 17,
+    "seed": 24,
+    "acc": 1.0,
+    "circulant_fraction": 0.05003930901100757,
+    "frequency_concentration": 0.41559775604534904,
+    "spectral_fraction": 0.16959515686605636,
+    "effective_rank": 7.945712369915042,
+    "centered_energy_fraction": 0.8380539312377158,
+    "final_plus_minus_symmetric_coupling": 0.016225679429649375,
+    "final_plus_minus_skew_coupling": 0.2416699975002671
+  },
+  {
+    "p": 29,
+    "seed": 20,
+    "acc": 1.0,
+    "circulant_fraction": 0.05361589150877751,
+    "frequency_concentration": 0.2466952518179322,
+    "spectral_fraction": 0.10357439411117471,
+    "effective_rank": 15.276892849295763,
+    "centered_energy_fraction": 0.904827340940099,
+    "final_plus_minus_symmetric_coupling": 0.016275371868567017,
+    "final_plus_minus_skew_coupling": 0.5933795699177553
+  },
+  {
+    "p": 29,
+    "seed": 21,
+    "acc": 1.0,
+    "circulant_fraction": 0.036802908475237324,
+    "frequency_concentration": 0.3312094743148713,
+    "spectral_fraction": 0.1088969582894623,
+    "effective_rank": 14.353642889181394,
+    "centered_energy_fraction": 0.9448266791051229,
+    "final_plus_minus_symmetric_coupling": 0.01236817401625632,
+    "final_plus_minus_skew_coupling": 0.4937479515750723
+  },
+  {
+    "p": 29,
+    "seed": 22,
+    "acc": 1.0,
+    "circulant_fraction": 0.020739967255009876,
+    "frequency_concentration": 0.2672770681410873,
+    "spectral_fraction": 0.11711048924784767,
+    "effective_rank": 14.448784503727133,
+    "centered_energy_fraction": 0.9335342789431641,
+    "final_plus_minus_symmetric_coupling": 0.013622111165498288,
+    "final_plus_minus_skew_coupling": 0.37334415955887307
+  },
+  {
+    "p": 29,
+    "seed": 23,
+    "acc": 1.0,
+    "circulant_fraction": 0.022357176952905043,
+    "frequency_concentration": 0.22025704335189078,
+    "spectral_fraction": 0.10930577817881944,
+    "effective_rank": 13.966191491830584,
+    "centered_energy_fraction": 0.9339879227636069,
+    "final_plus_minus_symmetric_coupling": 0.013569547573047418,
+    "final_plus_minus_skew_coupling": 0.3879895584016114
+  },
+  {
+    "p": 29,
+    "seed": 24,
+    "acc": 1.0,
+    "circulant_fraction": 0.0347671639371625,
+    "frequency_concentration": 0.19848314991819507,
+    "spectral_fraction": 0.10171551911138886,
+    "effective_rank": 14.947916750178678,
+    "centered_energy_fraction": 0.9708913301034652,
+    "final_plus_minus_symmetric_coupling": 0.009002883210510826,
+    "final_plus_minus_skew_coupling": 0.48201957448715005
+  }
+]

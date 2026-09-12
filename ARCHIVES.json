@@ -1,0 +1,17 @@
+[
+  {
+    "file": "rfm-manuscript-compact.zip",
+    "bytes": 14269585,
+    "sha256": "eeae8843e84dbb1f5e399b76a1ab85af044f6703131aa7244705d90c18450e6c"
+  },
+  {
+    "file": "rfm-mechanism-full.zip",
+    "bytes": 168784423,
+    "sha256": "dda7463429dc0ff01281a5772d092d9d479191b78d636ee3df439e367819e8b8"
+  },
+  {
+    "file": "rfm-initialization-selection-full.zip",
+    "bytes": 483357511,
+    "sha256": "5d0ce3c42e869069519462dacf56bb56ff160113f6d481aece18ab095aa5947b"
+  }
+]

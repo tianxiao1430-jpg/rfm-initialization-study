@@ -1,0 +1,21 @@
+{
+  "python": "3.12.3",
+  "torch": "2.13.0+cu132",
+  "numpy": "2.5.2",
+  "cuda": "13.2",
+  "gpu": "NVIDIA GeForce RTX 4070",
+  "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "threads": 1,
+  "tf32": false,
+  "TORCH_DISABLE_NATIVE_JIT": "1",
+  "source_sha256": "7264f49a08511c948f1cace31d8cadcd447879a8c9ce850ebaa22839773f38cb",
+  "sources": {
+    "src/experiment_v3.py": "c20ac7a614d4cd4636a5191198eecb9051ac23b4d18b3983eae91440fd821061",
+    "src/components.py": "b1e13f6d253558c091d46d6347bdfe5688a44e11305d4911d46788127cdffc58",
+    "vendor/rfm.py": "7264f49a08511c948f1cace31d8cadcd447879a8c9ce850ebaa22839773f38cb",
+    "src/experiment.py": "80c5727aa5ff2146cc1a45799df5463cf92e25a02448ee94ce24607a83951f87",
+    "src/directions_v2.py": "bcb0ad60fda29fafe0ef81ff02925a36b7ceb119329bdc3097a2ddcc97fb084f",
+    "src/directions_v3.py": "10ec730969e15a02ce388aa6f298df6ade630dd2dba772a59e7d4441a40f0966"
+  },
+  "initializer_sha256": "9d24106bf9e4284a6964acae0625ed37dc75111d3c8d7ec0ebd1da5dbc094bec"
+}

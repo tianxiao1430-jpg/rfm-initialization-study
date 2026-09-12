@@ -1,0 +1,6 @@
+{
+  "reason": "Replace overlapping labels with distinguishable markers and legend; same coordinates and source data",
+  "source_summary_sha256": "d6bf4bb31d577d6439d8b046d483f1d63662cd5962739e45b0553b2c13018fc6",
+  "script_sha256": "8c6b74d8ac73c6f3fbf08ef77139cd3ac118c8621bf0632a397bfcf04751b07d",
+  "statistics_changed": false
+}

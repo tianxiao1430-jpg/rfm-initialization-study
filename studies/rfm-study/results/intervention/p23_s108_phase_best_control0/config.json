@@ -1,0 +1,16 @@
+{
+  "p": 23,
+  "seed": 108,
+  "kind": "custom",
+  "epsilon": 0.01,
+  "amount": "p23_s108_phase_best_control0.npz",
+  "formula": "code",
+  "centering": true,
+  "eig_cutoff": 0.0,
+  "ridge": 0.0,
+  "bandwidth": 2.5,
+  "iterations": 60,
+  "device": "cuda",
+  "dtype": "float64",
+  "timeout": 600
+}

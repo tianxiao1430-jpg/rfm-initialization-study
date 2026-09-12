@@ -1,0 +1,7 @@
+p,contrast,mean_difference_pp,ci_low_pp,ci_high_pp,p_sign_flip,wins,ties,losses,p_holm
+17,bank - random_probe,-0.4545454545454547,-1.3636363636363642,0.0,1.0,0,19,1,1.0
+17,bank - greedy_probe,-0.4545454545454547,-1.3636363636363642,0.0,1.0,0,19,1,1.0
+17,bank - random_full,1.8181818181818181,-0.4545454545454547,5.0,0.5001649983500165,3,16,1,1.0
+23,bank - random_probe,0.0,0.0,0.0,1.0,0,20,0,1.0
+23,bank - greedy_probe,0.0,0.0,0.0,1.0,0,20,0,1.0
+23,bank - random_full,0.0,0.0,0.0,1.0,0,20,0,1.0

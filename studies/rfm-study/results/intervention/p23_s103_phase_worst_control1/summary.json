@@ -1,0 +1,32 @@
+{
+  "status": "completed",
+  "config": {
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "epsilon": 0.01,
+    "amount": "p23_s103_phase_worst_control1.npz",
+    "formula": "code",
+    "centering": true,
+    "eig_cutoff": 0.0,
+    "ridge": 0.0,
+    "bandwidth": 2.5,
+    "iterations": 60,
+    "device": "cuda",
+    "dtype": "float64",
+    "timeout": 600
+  },
+  "n_rows": 60,
+  "final": {
+    "iteration": 59,
+    "acc": 1.0,
+    "mse": 0.041464528535768756,
+    "mean_margin": 0.0003864477575165977,
+    "min_margin": 0.00015858380006150696,
+    "relative_residual": 7.045228901095352e-14,
+    "symmetry_defect": 0.09530027767229417,
+    "elapsed_s": 1.1990116800000123
+  },
+  "error": null,
+  "elapsed_s": 1.2276868500000546
+}

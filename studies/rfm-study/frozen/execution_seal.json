@@ -1,0 +1,27 @@
+{
+  "timestamp_utc": "2026-09-06T13:55:09.545924+00:00",
+  "files": {
+    "confirmation_design.md": "216b454828d02127ecd15b045f22f43a5733c58901bf41b8c646a791507df23e",
+    "frozen/freeze_manifest.json": "edbc5dfbf576580d99479c5a9c46d2e4315bf418cd4b8880d00cd48111aaeef4",
+    "src/analyze_discovery.py": "4a4cc48d93edb8963076bed312422793185f2c967769c88f62fbae4cbfd88ede",
+    "src/components.py": "b1e13f6d253558c091d46d6347bdfe5688a44e11305d4911d46788127cdffc58",
+    "src/create_intervention_engine.py": "82b2292b0865fb008c2b9af461e1b074d2a9412d1bf88a2f0df01997e02475c2",
+    "src/create_operator_plan.py": "760e6cfe16ab6353ef37eb55b7dc5e083402e8106aa1fdfc4a5868f1cee5ba8a",
+    "src/directions_v2.py": "bcb0ad60fda29fafe0ef81ff02925a36b7ceb119329bdc3097a2ddcc97fb084f",
+    "src/directions_v3.py": "10ec730969e15a02ce388aa6f298df6ade630dd2dba772a59e7d4441a40f0966",
+    "src/experiment.py": "80c5727aa5ff2146cc1a45799df5463cf92e25a02448ee94ce24607a83951f87",
+    "src/experiment_v2.py": "29fd138d2f7e2ead1d8e2a324f9a818be95be8a4dd7368fdf244c615f41f44fb",
+    "src/experiment_v3.py": "c20ac7a614d4cd4636a5191198eecb9051ac23b4d18b3983eae91440fd821061",
+    "src/explore_forecast.py": "b728a0f0fb4bebd04c480cf4a53c4f0c9c38199891f5d9324c860323bdc26a47",
+    "src/fit_operator.py": "2fc47bbd6ea0e324cfbb145c6756890fbeec725e069be5340b640185b8cbdbe0",
+    "src/forecast_delta.py": "dc6fd2afd515b37852d4cc71e4536af093fee9fdcbe1c964d78dcbb9e84accb9",
+    "src/freeze_confirmation.py": "3f04c325a277b2b4b9eba8ee3af38f89bf763bee3b4c2410dd89760c4fd03de0",
+    "src/plans.py": "aea23ec873133ed435b27fd8a5a127748e0fc89840edb0ff8f72fe25c93b3938",
+    "src/preflight.py": "cef728ec09b235d214e5352da586088ef771ff804b2876c8b0899f9afe10f91f",
+    "src/probe_modes.py": "32945911be8dd5dcd8396e74144d33f3b371283fff9b39af231ba036f32322b0",
+    "src/run_frozen.py": "5ff14c4965feffcbfad9517cc3f70aad5ce2d1b6cf4452780bb3935cf84c01af",
+    "src/taylor.py": "87af0da5f83b9185002ca9a3ab9c2e3c18a58774f42749cc50d9be2ff462c249"
+  },
+  "geometry_checks": "passed",
+  "status": "before confirmation execution"
+}

@@ -1,0 +1,376 @@
+{
+  "scope": "initial_kernel_fit_only_no_AGOP_proof",
+  "rows": [
+    {
+      "p": 17,
+      "seed": 20,
+      "kind": "break",
+      "final_acc": 0.0,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": -0.11833936098165034,
+      "max_abs_first_coefficient": 6.80566714095221e-14,
+      "f2_spatial_norm": 4.953997381972608
+    },
+    {
+      "p": 17,
+      "seed": 20,
+      "kind": "cross",
+      "final_acc": 0.0,
+      "taylor_prediction_acc": 0.058823529411764705,
+      "centered_taylor_prediction_acc": 0.11764705882352941,
+      "spatial_cosine": 0.15348752394425996,
+      "max_abs_first_coefficient": 7.632783294297951e-15,
+      "f2_spatial_norm": 4.6417143093743265
+    },
+    {
+      "p": 17,
+      "seed": 20,
+      "kind": "diag",
+      "final_acc": 0.058823529411764705,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": 0.006454457029214366,
+      "max_abs_first_coefficient": 1.4988010832439613e-13,
+      "f2_spatial_norm": 8.109763361172188
+    },
+    {
+      "p": 17,
+      "seed": 21,
+      "kind": "break",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": 0.03409240594224917,
+      "max_abs_first_coefficient": 4.440892098500626e-14,
+      "f2_spatial_norm": 4.740292843594248
+    },
+    {
+      "p": 17,
+      "seed": 21,
+      "kind": "cross",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.058823529411764705,
+      "centered_taylor_prediction_acc": 0.058823529411764705,
+      "spatial_cosine": 0.1442459328288098,
+      "max_abs_first_coefficient": 6.772360450213455e-15,
+      "f2_spatial_norm": 5.07456036205697
+    },
+    {
+      "p": 17,
+      "seed": 21,
+      "kind": "diag",
+      "final_acc": 0.058823529411764705,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": 0.013188397137526977,
+      "max_abs_first_coefficient": 9.636735853746359e-14,
+      "f2_spatial_norm": 8.22584189655974
+    },
+    {
+      "p": 17,
+      "seed": 22,
+      "kind": "break",
+      "final_acc": 0.47058823529411764,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": 0.08865204935353958,
+      "max_abs_first_coefficient": 4.196643033083092e-14,
+      "f2_spatial_norm": 4.811002622721344
+    },
+    {
+      "p": 17,
+      "seed": 22,
+      "kind": "cross",
+      "final_acc": 0.47058823529411764,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": 0.06592370644544643,
+      "max_abs_first_coefficient": 5.662137425588298e-15,
+      "f2_spatial_norm": 4.692373625745988
+    },
+    {
+      "p": 17,
+      "seed": 22,
+      "kind": "diag",
+      "final_acc": 0.058823529411764705,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": 0.08582094484613743,
+      "max_abs_first_coefficient": 1.1546319456101628e-13,
+      "f2_spatial_norm": 8.921988308281913
+    },
+    {
+      "p": 17,
+      "seed": 23,
+      "kind": "break",
+      "final_acc": 0.0,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": -0.023363362659111916,
+      "max_abs_first_coefficient": 4.707345624410664e-14,
+      "f2_spatial_norm": 4.690593659359711
+    },
+    {
+      "p": 17,
+      "seed": 23,
+      "kind": "cross",
+      "final_acc": 0.0,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": 0.14064444605266382,
+      "max_abs_first_coefficient": 7.93809462606987e-15,
+      "f2_spatial_norm": 4.309121367450194
+    },
+    {
+      "p": 17,
+      "seed": 23,
+      "kind": "diag",
+      "final_acc": 0.058823529411764705,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": -0.05208894726363561,
+      "max_abs_first_coefficient": 7.016609515630989e-14,
+      "f2_spatial_norm": 8.051396268470137
+    },
+    {
+      "p": 17,
+      "seed": 24,
+      "kind": "break",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.058823529411764705,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": -0.08269976527593631,
+      "max_abs_first_coefficient": 5.773159728050814e-14,
+      "f2_spatial_norm": 4.822300231372868
+    },
+    {
+      "p": 17,
+      "seed": 24,
+      "kind": "cross",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.058823529411764705,
+      "centered_taylor_prediction_acc": 0.11764705882352941,
+      "spatial_cosine": 0.022478799952315335,
+      "max_abs_first_coefficient": 8.28503932126523e-15,
+      "f2_spatial_norm": 4.662675967059407
+    },
+    {
+      "p": 17,
+      "seed": 24,
+      "kind": "diag",
+      "final_acc": 0.058823529411764705,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": -0.06034419427672015,
+      "max_abs_first_coefficient": 5.5067062021407764e-14,
+      "f2_spatial_norm": 8.805204529250354
+    },
+    {
+      "p": 29,
+      "seed": 20,
+      "kind": "break",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": 0.03373299111393544,
+      "max_abs_first_coefficient": 9.103828801926284e-14,
+      "f2_spatial_norm": 6.252959960669091
+    },
+    {
+      "p": 29,
+      "seed": 20,
+      "kind": "cross",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.10344827586206896,
+      "centered_taylor_prediction_acc": 0.10344827586206896,
+      "spatial_cosine": 0.0824146943464318,
+      "max_abs_first_coefficient": 8.021361352916756e-15,
+      "f2_spatial_norm": 6.324006140484595
+    },
+    {
+      "p": 29,
+      "seed": 20,
+      "kind": "diag",
+      "final_acc": 0.034482758620689655,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": -0.041419668888170155,
+      "max_abs_first_coefficient": 1.2301271112846734e-13,
+      "f2_spatial_norm": 10.24487329235765
+    },
+    {
+      "p": 29,
+      "seed": 21,
+      "kind": "break",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": -0.015100764101205456,
+      "max_abs_first_coefficient": 7.316369732279782e-14,
+      "f2_spatial_norm": 6.101769532416405
+    },
+    {
+      "p": 29,
+      "seed": 21,
+      "kind": "cross",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.034482758620689655,
+      "centered_taylor_prediction_acc": 0.034482758620689655,
+      "spatial_cosine": 0.06063477212589064,
+      "max_abs_first_coefficient": 9.880984919163893e-15,
+      "f2_spatial_norm": 6.179589760169037
+    },
+    {
+      "p": 29,
+      "seed": 21,
+      "kind": "diag",
+      "final_acc": 0.034482758620689655,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": 0.048689285851947255,
+      "max_abs_first_coefficient": 1.0791367799356522e-13,
+      "f2_spatial_norm": 10.391420930260361
+    },
+    {
+      "p": 29,
+      "seed": 22,
+      "kind": "break",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": -0.020282582149168654,
+      "max_abs_first_coefficient": 1.163513729807164e-13,
+      "f2_spatial_norm": 6.118507288162465
+    },
+    {
+      "p": 29,
+      "seed": 22,
+      "kind": "cross",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": -0.005252263742821468,
+      "max_abs_first_coefficient": 9.322403959899361e-15,
+      "f2_spatial_norm": 6.554151360835488
+    },
+    {
+      "p": 29,
+      "seed": 22,
+      "kind": "diag",
+      "final_acc": 0.034482758620689655,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": -0.02532333661242371,
+      "max_abs_first_coefficient": 1.3000711618360583e-13,
+      "f2_spatial_norm": 10.484075200753086
+    },
+    {
+      "p": 29,
+      "seed": 23,
+      "kind": "break",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": 0.03555126208879597,
+      "max_abs_first_coefficient": 8.93729534823251e-14,
+      "f2_spatial_norm": 6.786967929143142
+    },
+    {
+      "p": 29,
+      "seed": 23,
+      "kind": "cross",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.034482758620689655,
+      "centered_taylor_prediction_acc": 0.034482758620689655,
+      "spatial_cosine": 0.0025748150171212986,
+      "max_abs_first_coefficient": 1.007874339542525e-14,
+      "f2_spatial_norm": 6.315961249239354
+    },
+    {
+      "p": 29,
+      "seed": 23,
+      "kind": "diag",
+      "final_acc": 0.034482758620689655,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": -0.005299448174406644,
+      "max_abs_first_coefficient": 1.1368683772161603e-13,
+      "f2_spatial_norm": 11.167992496360206
+    },
+    {
+      "p": 29,
+      "seed": 24,
+      "kind": "break",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.034482758620689655,
+      "spatial_cosine": 0.042351058844194996,
+      "max_abs_first_coefficient": 6.300515664747763e-14,
+      "f2_spatial_norm": 6.381512243618409
+    },
+    {
+      "p": 29,
+      "seed": 24,
+      "kind": "cross",
+      "final_acc": 1.0,
+      "taylor_prediction_acc": 0.06896551724137931,
+      "centered_taylor_prediction_acc": 0.06896551724137931,
+      "spatial_cosine": 0.08425443249628972,
+      "max_abs_first_coefficient": 1.0297318553398327e-14,
+      "f2_spatial_norm": 6.4006023584331935
+    },
+    {
+      "p": 29,
+      "seed": 24,
+      "kind": "diag",
+      "final_acc": 0.034482758620689655,
+      "taylor_prediction_acc": 0.0,
+      "centered_taylor_prediction_acc": 0.0,
+      "spatial_cosine": 0.002242487277007713,
+      "max_abs_first_coefficient": 1.0524914273446484e-13,
+      "f2_spatial_norm": 10.999336802062793
+    }
+  ],
+  "checks": [
+    {
+      "kind": "break",
+      "eps": [
+        0.002,
+        0.001,
+        0.0005
+      ],
+      "remainder_l2": [
+        8.543204601740246e-11,
+        5.362377120904805e-12,
+        6.319014872544652e-13
+      ]
+    },
+    {
+      "kind": "cross",
+      "eps": [
+        0.002,
+        0.001,
+        0.0005
+      ],
+      "remainder_l2": [
+        9.038454088102235e-11,
+        5.6492230406243466e-12,
+        5.631292977927488e-13
+      ]
+    },
+    {
+      "kind": "diag",
+      "eps": [
+        0.002,
+        0.001,
+        0.0005
+      ],
+      "remainder_l2": [
+        2.2452304785268786e-10,
+        1.4044578004706975e-11,
+        9.995374809808648e-13
+      ]
+    }
+  ]
+}

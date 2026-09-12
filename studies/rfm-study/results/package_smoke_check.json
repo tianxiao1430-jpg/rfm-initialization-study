@@ -1,0 +1,5 @@
+{
+  "passed": true,
+  "runs": 2,
+  "scope": "clean copied package: ordinary and custom initialization, full 60-evaluation trajectory bitwise equality"
+}

@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "p": 17,
+      "invariant_errors": {
+        "norm": 2.220446049250313e-16,
+        "residual": 4.163336342344337e-17,
+        "magnitudes": 3.3306690738754696e-16,
+        "symmetry": 0.0
+      },
+      "resume_exact": true,
+      "candidates": 128
+    },
+    {
+      "p": 23,
+      "invariant_errors": {
+        "norm": 2.220446049250313e-16,
+        "residual": 4.85722573273506e-17,
+        "magnitudes": 5.551115123125783e-16,
+        "symmetry": 0.0
+      },
+      "resume_exact": true,
+      "candidates": 1024
+    }
+  ],
+  "old_engine_exact": true,
+  "vendor_exact": true,
+  "environment": {
+    "python": "3.12.3",
+    "torch": "2.13.0+cu132",
+    "numpy": "2.5.2",
+    "cuda": "13.2",
+    "gpu": "NVIDIA GeForce RTX 4070",
+    "platform": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "threads": 1,
+    "tf32": false,
+    "TORCH_DISABLE_NATIVE_JIT": "1",
+    "source_sha256": "7264f49a08511c948f1cace31d8cadcd447879a8c9ce850ebaa22839773f38cb"
+  }
+}

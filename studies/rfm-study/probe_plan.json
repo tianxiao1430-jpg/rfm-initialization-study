@@ -1,0 +1,402 @@
+[
+  {
+    "name": "p17_s30_circ_matched_probe",
+    "p": 17,
+    "seed": 30,
+    "kind": "circ",
+    "epsilon": 0.001522794371341578,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s31_circ_matched_probe",
+    "p": 17,
+    "seed": 31,
+    "kind": "circ",
+    "epsilon": 0.0030886401124434106,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s32_circ_matched_probe",
+    "p": 17,
+    "seed": 32,
+    "kind": "circ",
+    "epsilon": 0.0027664690022901955,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s33_circ_matched_probe",
+    "p": 17,
+    "seed": 33,
+    "kind": "circ",
+    "epsilon": 0.0018573952921848871,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s34_circ_matched_probe",
+    "p": 17,
+    "seed": 34,
+    "kind": "circ",
+    "epsilon": 0.002288262450512815,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s35_circ_matched_probe",
+    "p": 17,
+    "seed": 35,
+    "kind": "circ",
+    "epsilon": 0.002267410517576523,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s36_circ_matched_probe",
+    "p": 17,
+    "seed": 36,
+    "kind": "circ",
+    "epsilon": 0.0027811457837506365,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s37_circ_matched_probe",
+    "p": 17,
+    "seed": 37,
+    "kind": "circ",
+    "epsilon": 0.002163962161061146,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s38_circ_matched_probe",
+    "p": 17,
+    "seed": 38,
+    "kind": "circ",
+    "epsilon": 0.0023970938065661007,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s39_circ_matched_probe",
+    "p": 17,
+    "seed": 39,
+    "kind": "circ",
+    "epsilon": 0.003047238829439699,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s40_circ_matched_probe",
+    "p": 17,
+    "seed": 40,
+    "kind": "circ",
+    "epsilon": 0.0020701291903966086,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s41_circ_matched_probe",
+    "p": 17,
+    "seed": 41,
+    "kind": "circ",
+    "epsilon": 0.003318363391979353,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s42_circ_matched_probe",
+    "p": 17,
+    "seed": 42,
+    "kind": "circ",
+    "epsilon": 0.002223256450510762,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s43_circ_matched_probe",
+    "p": 17,
+    "seed": 43,
+    "kind": "circ",
+    "epsilon": 0.00240175545847499,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s44_circ_matched_probe",
+    "p": 17,
+    "seed": 44,
+    "kind": "circ",
+    "epsilon": 0.002208314297728805,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s45_circ_matched_probe",
+    "p": 17,
+    "seed": 45,
+    "kind": "circ",
+    "epsilon": 0.0022046595835134982,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s46_circ_matched_probe",
+    "p": 17,
+    "seed": 46,
+    "kind": "circ",
+    "epsilon": 0.0033582990363373263,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s47_circ_matched_probe",
+    "p": 17,
+    "seed": 47,
+    "kind": "circ",
+    "epsilon": 0.002361215333231146,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s48_circ_matched_probe",
+    "p": 17,
+    "seed": 48,
+    "kind": "circ",
+    "epsilon": 0.0008982629498998978,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s49_circ_matched_probe",
+    "p": 17,
+    "seed": 49,
+    "kind": "circ",
+    "epsilon": 0.002706931984468287,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s50_circ_matched_probe",
+    "p": 17,
+    "seed": 50,
+    "kind": "circ",
+    "epsilon": 0.0025900539615403466,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s51_circ_matched_probe",
+    "p": 17,
+    "seed": 51,
+    "kind": "circ",
+    "epsilon": 0.004221828478207799,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s52_circ_matched_probe",
+    "p": 17,
+    "seed": 52,
+    "kind": "circ",
+    "epsilon": 0.0023684968513288146,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s53_circ_matched_probe",
+    "p": 17,
+    "seed": 53,
+    "kind": "circ",
+    "epsilon": 0.002634074670003187,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s54_circ_matched_probe",
+    "p": 17,
+    "seed": 54,
+    "kind": "circ",
+    "epsilon": 0.0024318109527208813,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s55_circ_matched_probe",
+    "p": 17,
+    "seed": 55,
+    "kind": "circ",
+    "epsilon": 0.00335509380448278,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s56_circ_matched_probe",
+    "p": 17,
+    "seed": 56,
+    "kind": "circ",
+    "epsilon": 0.0024954758618095773,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s57_circ_matched_probe",
+    "p": 17,
+    "seed": 57,
+    "kind": "circ",
+    "epsilon": 0.0025116620060447736,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s58_circ_matched_probe",
+    "p": 17,
+    "seed": 58,
+    "kind": "circ",
+    "epsilon": 0.001967527660719281,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s59_circ_matched_probe",
+    "p": 17,
+    "seed": 59,
+    "kind": "circ",
+    "epsilon": 0.002051349074543537,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s60_circ_matched_probe",
+    "p": 17,
+    "seed": 60,
+    "kind": "circ",
+    "epsilon": 0.0018873301183659264,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s61_circ_matched_probe",
+    "p": 17,
+    "seed": 61,
+    "kind": "circ",
+    "epsilon": 0.003008719424532598,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s62_circ_matched_probe",
+    "p": 17,
+    "seed": 62,
+    "kind": "circ",
+    "epsilon": 0.002712945862408442,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s63_circ_matched_probe",
+    "p": 17,
+    "seed": 63,
+    "kind": "circ",
+    "epsilon": 0.002540050375360711,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s64_circ_matched_probe",
+    "p": 17,
+    "seed": 64,
+    "kind": "circ",
+    "epsilon": 0.001962133365979053,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s65_circ_matched_probe",
+    "p": 17,
+    "seed": 65,
+    "kind": "circ",
+    "epsilon": 0.0022401930740337758,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s66_circ_matched_probe",
+    "p": 17,
+    "seed": 66,
+    "kind": "circ",
+    "epsilon": 0.002202866416893039,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s67_circ_matched_probe",
+    "p": 17,
+    "seed": 67,
+    "kind": "circ",
+    "epsilon": 0.001325230092944466,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s68_circ_matched_probe",
+    "p": 17,
+    "seed": 68,
+    "kind": "circ",
+    "epsilon": 0.0026288060351099462,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s69_circ_matched_probe",
+    "p": 17,
+    "seed": 69,
+    "kind": "circ",
+    "epsilon": 0.0031670409276340103,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s20_circ_matched_probe",
+    "p": 17,
+    "seed": 20,
+    "kind": "circ",
+    "epsilon": 0.0021031983322268174,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s21_circ_matched_probe",
+    "p": 17,
+    "seed": 21,
+    "kind": "circ",
+    "epsilon": 0.0030698841024155814,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s22_circ_matched_probe",
+    "p": 17,
+    "seed": 22,
+    "kind": "circ",
+    "epsilon": 0.0023201779557744883,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s23_circ_matched_probe",
+    "p": 17,
+    "seed": 23,
+    "kind": "circ",
+    "epsilon": 0.002551591780433671,
+    "iterations": 6
+  },
+  {
+    "name": "p17_s24_circ_matched_probe",
+    "p": 17,
+    "seed": 24,
+    "kind": "circ",
+    "epsilon": 0.002236946781016651,
+    "iterations": 6
+  },
+  {
+    "name": "p29_s20_circ_matched_probe",
+    "p": 29,
+    "seed": 20,
+    "kind": "circ",
+    "epsilon": 0.0023155105594399156,
+    "iterations": 6
+  },
+  {
+    "name": "p29_s21_circ_matched_probe",
+    "p": 29,
+    "seed": 21,
+    "kind": "circ",
+    "epsilon": 0.0019184084152035334,
+    "iterations": 6
+  },
+  {
+    "name": "p29_s22_circ_matched_probe",
+    "p": 29,
+    "seed": 22,
+    "kind": "circ",
+    "epsilon": 0.0014401377453219493,
+    "iterations": 6
+  },
+  {
+    "name": "p29_s23_circ_matched_probe",
+    "p": 29,
+    "seed": 23,
+    "kind": "circ",
+    "epsilon": 0.001495231652718235,
+    "iterations": 6
+  },
+  {
+    "name": "p29_s24_circ_matched_probe",
+    "p": 29,
+    "seed": 24,
+    "kind": "circ",
+    "epsilon": 0.001864595504048063,
+    "iterations": 6
+  }
+]

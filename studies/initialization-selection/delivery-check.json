@@ -1,0 +1,23 @@
+{
+  "utc": "2026-09-08T16:46:54.548810+00:00",
+  "passed": true,
+  "report_links_checked": 14,
+  "direction_rows": 200,
+  "candidate_records": 1360,
+  "formal_runs": 160,
+  "independent_directions": 40,
+  "kernel_fits": 32960,
+  "training_trajectories": 1464,
+  "exact_reruns": 8,
+  "analysis_seal_valid": true,
+  "original_manuscript_unchanged": true,
+  "formal_sample_failures": 0,
+  "startup_failures_retained": 1,
+  "figures_visually_reviewed": [
+    "accuracy.png",
+    "all-directions.png",
+    "cost-accuracy.png"
+  ],
+  "report_sha256": "1ce627101062399531320c7a94b5e28b2e81828adec7ecfca74790b07c8cdf56",
+  "facts_sha256": "ba8afe714edb337ca67ea7cc9d136a7c117af9090e31437ee987e204a24eea12"
+}

@@ -1,0 +1,494 @@
+[
+  {
+    "name": "p17_s30_cross",
+    "p": 17,
+    "seed": 30,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s31_cross",
+    "p": 17,
+    "seed": 31,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s32_cross",
+    "p": 17,
+    "seed": 32,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s33_cross",
+    "p": 17,
+    "seed": 33,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s34_cross",
+    "p": 17,
+    "seed": 34,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s35_cross",
+    "p": 17,
+    "seed": 35,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s36_cross",
+    "p": 17,
+    "seed": 36,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s37_cross",
+    "p": 17,
+    "seed": 37,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s38_cross",
+    "p": 17,
+    "seed": 38,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s39_cross",
+    "p": 17,
+    "seed": 39,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s40_cross",
+    "p": 17,
+    "seed": 40,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s41_cross",
+    "p": 17,
+    "seed": 41,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s42_cross",
+    "p": 17,
+    "seed": 42,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s43_cross",
+    "p": 17,
+    "seed": 43,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s44_cross",
+    "p": 17,
+    "seed": 44,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s45_cross",
+    "p": 17,
+    "seed": 45,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s46_cross",
+    "p": 17,
+    "seed": 46,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s47_cross",
+    "p": 17,
+    "seed": 47,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s48_cross",
+    "p": 17,
+    "seed": 48,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s49_cross",
+    "p": 17,
+    "seed": 49,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s50_cross",
+    "p": 17,
+    "seed": 50,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s51_cross",
+    "p": 17,
+    "seed": 51,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s52_cross",
+    "p": 17,
+    "seed": 52,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s53_cross",
+    "p": 17,
+    "seed": 53,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s54_cross",
+    "p": 17,
+    "seed": 54,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s55_cross",
+    "p": 17,
+    "seed": 55,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s56_cross",
+    "p": 17,
+    "seed": 56,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s57_cross",
+    "p": 17,
+    "seed": 57,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s58_cross",
+    "p": 17,
+    "seed": 58,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s59_cross",
+    "p": 17,
+    "seed": 59,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s60_cross",
+    "p": 17,
+    "seed": 60,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s61_cross",
+    "p": 17,
+    "seed": 61,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s62_cross",
+    "p": 17,
+    "seed": 62,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s63_cross",
+    "p": 17,
+    "seed": 63,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s64_cross",
+    "p": 17,
+    "seed": 64,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s65_cross",
+    "p": 17,
+    "seed": 65,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s66_cross",
+    "p": 17,
+    "seed": 66,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s67_cross",
+    "p": 17,
+    "seed": 67,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s68_cross",
+    "p": 17,
+    "seed": 68,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s69_cross",
+    "p": 17,
+    "seed": 69,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_none",
+    "p": 17,
+    "kind": "none",
+    "epsilon": 0.0
+  },
+  {
+    "name": "p17_s20_cross",
+    "p": 17,
+    "seed": 20,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s20_circ",
+    "p": 17,
+    "seed": 20,
+    "kind": "circ"
+  },
+  {
+    "name": "p17_s20_residual",
+    "p": 17,
+    "seed": 20,
+    "kind": "residual"
+  },
+  {
+    "name": "p17_s20_diag",
+    "p": 17,
+    "seed": 20,
+    "kind": "diag"
+  },
+  {
+    "name": "p17_s21_cross",
+    "p": 17,
+    "seed": 21,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s21_circ",
+    "p": 17,
+    "seed": 21,
+    "kind": "circ"
+  },
+  {
+    "name": "p17_s21_residual",
+    "p": 17,
+    "seed": 21,
+    "kind": "residual"
+  },
+  {
+    "name": "p17_s21_diag",
+    "p": 17,
+    "seed": 21,
+    "kind": "diag"
+  },
+  {
+    "name": "p17_s22_cross",
+    "p": 17,
+    "seed": 22,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s22_circ",
+    "p": 17,
+    "seed": 22,
+    "kind": "circ"
+  },
+  {
+    "name": "p17_s22_residual",
+    "p": 17,
+    "seed": 22,
+    "kind": "residual"
+  },
+  {
+    "name": "p17_s22_diag",
+    "p": 17,
+    "seed": 22,
+    "kind": "diag"
+  },
+  {
+    "name": "p17_s23_cross",
+    "p": 17,
+    "seed": 23,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s23_circ",
+    "p": 17,
+    "seed": 23,
+    "kind": "circ"
+  },
+  {
+    "name": "p17_s23_residual",
+    "p": 17,
+    "seed": 23,
+    "kind": "residual"
+  },
+  {
+    "name": "p17_s23_diag",
+    "p": 17,
+    "seed": 23,
+    "kind": "diag"
+  },
+  {
+    "name": "p17_s24_cross",
+    "p": 17,
+    "seed": 24,
+    "kind": "cross"
+  },
+  {
+    "name": "p17_s24_circ",
+    "p": 17,
+    "seed": 24,
+    "kind": "circ"
+  },
+  {
+    "name": "p17_s24_residual",
+    "p": 17,
+    "seed": 24,
+    "kind": "residual"
+  },
+  {
+    "name": "p17_s24_diag",
+    "p": 17,
+    "seed": 24,
+    "kind": "diag"
+  },
+  {
+    "name": "p29_none",
+    "p": 29,
+    "kind": "none",
+    "epsilon": 0.0
+  },
+  {
+    "name": "p29_s20_cross",
+    "p": 29,
+    "seed": 20,
+    "kind": "cross"
+  },
+  {
+    "name": "p29_s20_circ",
+    "p": 29,
+    "seed": 20,
+    "kind": "circ"
+  },
+  {
+    "name": "p29_s20_residual",
+    "p": 29,
+    "seed": 20,
+    "kind": "residual"
+  },
+  {
+    "name": "p29_s20_diag",
+    "p": 29,
+    "seed": 20,
+    "kind": "diag"
+  },
+  {
+    "name": "p29_s21_cross",
+    "p": 29,
+    "seed": 21,
+    "kind": "cross"
+  },
+  {
+    "name": "p29_s21_circ",
+    "p": 29,
+    "seed": 21,
+    "kind": "circ"
+  },
+  {
+    "name": "p29_s21_residual",
+    "p": 29,
+    "seed": 21,
+    "kind": "residual"
+  },
+  {
+    "name": "p29_s21_diag",
+    "p": 29,
+    "seed": 21,
+    "kind": "diag"
+  },
+  {
+    "name": "p29_s22_cross",
+    "p": 29,
+    "seed": 22,
+    "kind": "cross"
+  },
+  {
+    "name": "p29_s22_circ",
+    "p": 29,
+    "seed": 22,
+    "kind": "circ"
+  },
+  {
+    "name": "p29_s22_residual",
+    "p": 29,
+    "seed": 22,
+    "kind": "residual"
+  },
+  {
+    "name": "p29_s22_diag",
+    "p": 29,
+    "seed": 22,
+    "kind": "diag"
+  },
+  {
+    "name": "p29_s23_cross",
+    "p": 29,
+    "seed": 23,
+    "kind": "cross"
+  },
+  {
+    "name": "p29_s23_circ",
+    "p": 29,
+    "seed": 23,
+    "kind": "circ"
+  },
+  {
+    "name": "p29_s23_residual",
+    "p": 29,
+    "seed": 23,
+    "kind": "residual"
+  },
+  {
+    "name": "p29_s23_diag",
+    "p": 29,
+    "seed": 23,
+    "kind": "diag"
+  },
+  {
+    "name": "p29_s24_cross",
+    "p": 29,
+    "seed": 24,
+    "kind": "cross"
+  },
+  {
+    "name": "p29_s24_circ",
+    "p": 29,
+    "seed": 24,
+    "kind": "circ"
+  },
+  {
+    "name": "p29_s24_residual",
+    "p": 29,
+    "seed": 24,
+    "kind": "residual"
+  },
+  {
+    "name": "p29_s24_diag",
+    "p": 29,
+    "seed": 24,
+    "kind": "diag"
+  }
+]

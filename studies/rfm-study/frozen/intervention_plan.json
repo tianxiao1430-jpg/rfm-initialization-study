@@ -1,0 +1,2522 @@
+[
+  {
+    "name": "p17_s100_phase_best",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_phase_best.npz"
+  },
+  {
+    "name": "p17_s100_phase_best_control0",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s100_phase_best_control1",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s100_phase_best_control2",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s100_phase_worst",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_phase_worst.npz"
+  },
+  {
+    "name": "p17_s100_phase_worst_control0",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s100_phase_worst_control1",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s100_phase_worst_control2",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s100_remove",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_remove.npz"
+  },
+  {
+    "name": "p17_s100_remove_control0",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_remove_control0.npz"
+  },
+  {
+    "name": "p17_s100_remove_control1",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_remove_control1.npz"
+  },
+  {
+    "name": "p17_s100_remove_control2",
+    "p": 17,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p17_s100_remove_control2.npz"
+  },
+  {
+    "name": "p17_s101_phase_best",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_phase_best.npz"
+  },
+  {
+    "name": "p17_s101_phase_best_control0",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s101_phase_best_control1",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s101_phase_best_control2",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s101_phase_worst",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_phase_worst.npz"
+  },
+  {
+    "name": "p17_s101_phase_worst_control0",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s101_phase_worst_control1",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s101_phase_worst_control2",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s101_remove",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_remove.npz"
+  },
+  {
+    "name": "p17_s101_remove_control0",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_remove_control0.npz"
+  },
+  {
+    "name": "p17_s101_remove_control1",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_remove_control1.npz"
+  },
+  {
+    "name": "p17_s101_remove_control2",
+    "p": 17,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p17_s101_remove_control2.npz"
+  },
+  {
+    "name": "p17_s102_phase_best",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_phase_best.npz"
+  },
+  {
+    "name": "p17_s102_phase_best_control0",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s102_phase_best_control1",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s102_phase_best_control2",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s102_phase_worst",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_phase_worst.npz"
+  },
+  {
+    "name": "p17_s102_phase_worst_control0",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s102_phase_worst_control1",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s102_phase_worst_control2",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s102_remove",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_remove.npz"
+  },
+  {
+    "name": "p17_s102_remove_control0",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_remove_control0.npz"
+  },
+  {
+    "name": "p17_s102_remove_control1",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_remove_control1.npz"
+  },
+  {
+    "name": "p17_s102_remove_control2",
+    "p": 17,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p17_s102_remove_control2.npz"
+  },
+  {
+    "name": "p17_s103_phase_best",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_phase_best.npz"
+  },
+  {
+    "name": "p17_s103_phase_best_control0",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s103_phase_best_control1",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s103_phase_best_control2",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s103_phase_worst",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_phase_worst.npz"
+  },
+  {
+    "name": "p17_s103_phase_worst_control0",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s103_phase_worst_control1",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s103_phase_worst_control2",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s103_remove",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_remove.npz"
+  },
+  {
+    "name": "p17_s103_remove_control0",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_remove_control0.npz"
+  },
+  {
+    "name": "p17_s103_remove_control1",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_remove_control1.npz"
+  },
+  {
+    "name": "p17_s103_remove_control2",
+    "p": 17,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p17_s103_remove_control2.npz"
+  },
+  {
+    "name": "p17_s104_phase_best",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_phase_best.npz"
+  },
+  {
+    "name": "p17_s104_phase_best_control0",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s104_phase_best_control1",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s104_phase_best_control2",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s104_phase_worst",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_phase_worst.npz"
+  },
+  {
+    "name": "p17_s104_phase_worst_control0",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s104_phase_worst_control1",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s104_phase_worst_control2",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s104_remove",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_remove.npz"
+  },
+  {
+    "name": "p17_s104_remove_control0",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_remove_control0.npz"
+  },
+  {
+    "name": "p17_s104_remove_control1",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_remove_control1.npz"
+  },
+  {
+    "name": "p17_s104_remove_control2",
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p17_s104_remove_control2.npz"
+  },
+  {
+    "name": "p17_s105_phase_best",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_phase_best.npz"
+  },
+  {
+    "name": "p17_s105_phase_best_control0",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s105_phase_best_control1",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s105_phase_best_control2",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s105_phase_worst",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_phase_worst.npz"
+  },
+  {
+    "name": "p17_s105_phase_worst_control0",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s105_phase_worst_control1",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s105_phase_worst_control2",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s105_remove",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_remove.npz"
+  },
+  {
+    "name": "p17_s105_remove_control0",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_remove_control0.npz"
+  },
+  {
+    "name": "p17_s105_remove_control1",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_remove_control1.npz"
+  },
+  {
+    "name": "p17_s105_remove_control2",
+    "p": 17,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p17_s105_remove_control2.npz"
+  },
+  {
+    "name": "p17_s106_phase_best",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_phase_best.npz"
+  },
+  {
+    "name": "p17_s106_phase_best_control0",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s106_phase_best_control1",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s106_phase_best_control2",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s106_phase_worst",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_phase_worst.npz"
+  },
+  {
+    "name": "p17_s106_phase_worst_control0",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s106_phase_worst_control1",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s106_phase_worst_control2",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s106_remove",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_remove.npz"
+  },
+  {
+    "name": "p17_s106_remove_control0",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_remove_control0.npz"
+  },
+  {
+    "name": "p17_s106_remove_control1",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_remove_control1.npz"
+  },
+  {
+    "name": "p17_s106_remove_control2",
+    "p": 17,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p17_s106_remove_control2.npz"
+  },
+  {
+    "name": "p17_s107_phase_best",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_phase_best.npz"
+  },
+  {
+    "name": "p17_s107_phase_best_control0",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s107_phase_best_control1",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s107_phase_best_control2",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s107_phase_worst",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_phase_worst.npz"
+  },
+  {
+    "name": "p17_s107_phase_worst_control0",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s107_phase_worst_control1",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s107_phase_worst_control2",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s107_remove",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_remove.npz"
+  },
+  {
+    "name": "p17_s107_remove_control0",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_remove_control0.npz"
+  },
+  {
+    "name": "p17_s107_remove_control1",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_remove_control1.npz"
+  },
+  {
+    "name": "p17_s107_remove_control2",
+    "p": 17,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p17_s107_remove_control2.npz"
+  },
+  {
+    "name": "p17_s108_phase_best",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_phase_best.npz"
+  },
+  {
+    "name": "p17_s108_phase_best_control0",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s108_phase_best_control1",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s108_phase_best_control2",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s108_phase_worst",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_phase_worst.npz"
+  },
+  {
+    "name": "p17_s108_phase_worst_control0",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s108_phase_worst_control1",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s108_phase_worst_control2",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s108_remove",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_remove.npz"
+  },
+  {
+    "name": "p17_s108_remove_control0",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_remove_control0.npz"
+  },
+  {
+    "name": "p17_s108_remove_control1",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_remove_control1.npz"
+  },
+  {
+    "name": "p17_s108_remove_control2",
+    "p": 17,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p17_s108_remove_control2.npz"
+  },
+  {
+    "name": "p17_s109_phase_best",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_phase_best.npz"
+  },
+  {
+    "name": "p17_s109_phase_best_control0",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s109_phase_best_control1",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s109_phase_best_control2",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s109_phase_worst",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_phase_worst.npz"
+  },
+  {
+    "name": "p17_s109_phase_worst_control0",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s109_phase_worst_control1",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s109_phase_worst_control2",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s109_remove",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_remove.npz"
+  },
+  {
+    "name": "p17_s109_remove_control0",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_remove_control0.npz"
+  },
+  {
+    "name": "p17_s109_remove_control1",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_remove_control1.npz"
+  },
+  {
+    "name": "p17_s109_remove_control2",
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p17_s109_remove_control2.npz"
+  },
+  {
+    "name": "p17_s110_phase_best",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_phase_best.npz"
+  },
+  {
+    "name": "p17_s110_phase_best_control0",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s110_phase_best_control1",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s110_phase_best_control2",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s110_phase_worst",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_phase_worst.npz"
+  },
+  {
+    "name": "p17_s110_phase_worst_control0",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s110_phase_worst_control1",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s110_phase_worst_control2",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s110_remove",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_remove.npz"
+  },
+  {
+    "name": "p17_s110_remove_control0",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_remove_control0.npz"
+  },
+  {
+    "name": "p17_s110_remove_control1",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_remove_control1.npz"
+  },
+  {
+    "name": "p17_s110_remove_control2",
+    "p": 17,
+    "seed": 110,
+    "kind": "custom",
+    "amount": "p17_s110_remove_control2.npz"
+  },
+  {
+    "name": "p17_s111_phase_best",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_phase_best.npz"
+  },
+  {
+    "name": "p17_s111_phase_best_control0",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s111_phase_best_control1",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s111_phase_best_control2",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s111_phase_worst",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_phase_worst.npz"
+  },
+  {
+    "name": "p17_s111_phase_worst_control0",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s111_phase_worst_control1",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s111_phase_worst_control2",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s111_remove",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_remove.npz"
+  },
+  {
+    "name": "p17_s111_remove_control0",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_remove_control0.npz"
+  },
+  {
+    "name": "p17_s111_remove_control1",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_remove_control1.npz"
+  },
+  {
+    "name": "p17_s111_remove_control2",
+    "p": 17,
+    "seed": 111,
+    "kind": "custom",
+    "amount": "p17_s111_remove_control2.npz"
+  },
+  {
+    "name": "p17_s112_phase_best",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_phase_best.npz"
+  },
+  {
+    "name": "p17_s112_phase_best_control0",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s112_phase_best_control1",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s112_phase_best_control2",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s112_phase_worst",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_phase_worst.npz"
+  },
+  {
+    "name": "p17_s112_phase_worst_control0",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s112_phase_worst_control1",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s112_phase_worst_control2",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s112_remove",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_remove.npz"
+  },
+  {
+    "name": "p17_s112_remove_control0",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_remove_control0.npz"
+  },
+  {
+    "name": "p17_s112_remove_control1",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_remove_control1.npz"
+  },
+  {
+    "name": "p17_s112_remove_control2",
+    "p": 17,
+    "seed": 112,
+    "kind": "custom",
+    "amount": "p17_s112_remove_control2.npz"
+  },
+  {
+    "name": "p17_s113_phase_best",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_phase_best.npz"
+  },
+  {
+    "name": "p17_s113_phase_best_control0",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s113_phase_best_control1",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s113_phase_best_control2",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s113_phase_worst",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_phase_worst.npz"
+  },
+  {
+    "name": "p17_s113_phase_worst_control0",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s113_phase_worst_control1",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s113_phase_worst_control2",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s113_remove",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_remove.npz"
+  },
+  {
+    "name": "p17_s113_remove_control0",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_remove_control0.npz"
+  },
+  {
+    "name": "p17_s113_remove_control1",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_remove_control1.npz"
+  },
+  {
+    "name": "p17_s113_remove_control2",
+    "p": 17,
+    "seed": 113,
+    "kind": "custom",
+    "amount": "p17_s113_remove_control2.npz"
+  },
+  {
+    "name": "p17_s114_phase_best",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_phase_best.npz"
+  },
+  {
+    "name": "p17_s114_phase_best_control0",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s114_phase_best_control1",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s114_phase_best_control2",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s114_phase_worst",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_phase_worst.npz"
+  },
+  {
+    "name": "p17_s114_phase_worst_control0",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s114_phase_worst_control1",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s114_phase_worst_control2",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s114_remove",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_remove.npz"
+  },
+  {
+    "name": "p17_s114_remove_control0",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_remove_control0.npz"
+  },
+  {
+    "name": "p17_s114_remove_control1",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_remove_control1.npz"
+  },
+  {
+    "name": "p17_s114_remove_control2",
+    "p": 17,
+    "seed": 114,
+    "kind": "custom",
+    "amount": "p17_s114_remove_control2.npz"
+  },
+  {
+    "name": "p17_s115_phase_best",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_phase_best.npz"
+  },
+  {
+    "name": "p17_s115_phase_best_control0",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s115_phase_best_control1",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s115_phase_best_control2",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s115_phase_worst",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_phase_worst.npz"
+  },
+  {
+    "name": "p17_s115_phase_worst_control0",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s115_phase_worst_control1",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s115_phase_worst_control2",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s115_remove",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_remove.npz"
+  },
+  {
+    "name": "p17_s115_remove_control0",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_remove_control0.npz"
+  },
+  {
+    "name": "p17_s115_remove_control1",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_remove_control1.npz"
+  },
+  {
+    "name": "p17_s115_remove_control2",
+    "p": 17,
+    "seed": 115,
+    "kind": "custom",
+    "amount": "p17_s115_remove_control2.npz"
+  },
+  {
+    "name": "p17_s116_phase_best",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_phase_best.npz"
+  },
+  {
+    "name": "p17_s116_phase_best_control0",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s116_phase_best_control1",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s116_phase_best_control2",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s116_phase_worst",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_phase_worst.npz"
+  },
+  {
+    "name": "p17_s116_phase_worst_control0",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s116_phase_worst_control1",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s116_phase_worst_control2",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s116_remove",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_remove.npz"
+  },
+  {
+    "name": "p17_s116_remove_control0",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_remove_control0.npz"
+  },
+  {
+    "name": "p17_s116_remove_control1",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_remove_control1.npz"
+  },
+  {
+    "name": "p17_s116_remove_control2",
+    "p": 17,
+    "seed": 116,
+    "kind": "custom",
+    "amount": "p17_s116_remove_control2.npz"
+  },
+  {
+    "name": "p17_s117_phase_best",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_phase_best.npz"
+  },
+  {
+    "name": "p17_s117_phase_best_control0",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s117_phase_best_control1",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s117_phase_best_control2",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s117_phase_worst",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_phase_worst.npz"
+  },
+  {
+    "name": "p17_s117_phase_worst_control0",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s117_phase_worst_control1",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s117_phase_worst_control2",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s117_remove",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_remove.npz"
+  },
+  {
+    "name": "p17_s117_remove_control0",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_remove_control0.npz"
+  },
+  {
+    "name": "p17_s117_remove_control1",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_remove_control1.npz"
+  },
+  {
+    "name": "p17_s117_remove_control2",
+    "p": 17,
+    "seed": 117,
+    "kind": "custom",
+    "amount": "p17_s117_remove_control2.npz"
+  },
+  {
+    "name": "p17_s118_phase_best",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_phase_best.npz"
+  },
+  {
+    "name": "p17_s118_phase_best_control0",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s118_phase_best_control1",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s118_phase_best_control2",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s118_phase_worst",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_phase_worst.npz"
+  },
+  {
+    "name": "p17_s118_phase_worst_control0",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s118_phase_worst_control1",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s118_phase_worst_control2",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s118_remove",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_remove.npz"
+  },
+  {
+    "name": "p17_s118_remove_control0",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_remove_control0.npz"
+  },
+  {
+    "name": "p17_s118_remove_control1",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_remove_control1.npz"
+  },
+  {
+    "name": "p17_s118_remove_control2",
+    "p": 17,
+    "seed": 118,
+    "kind": "custom",
+    "amount": "p17_s118_remove_control2.npz"
+  },
+  {
+    "name": "p17_s119_phase_best",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_phase_best.npz"
+  },
+  {
+    "name": "p17_s119_phase_best_control0",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_phase_best_control0.npz"
+  },
+  {
+    "name": "p17_s119_phase_best_control1",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_phase_best_control1.npz"
+  },
+  {
+    "name": "p17_s119_phase_best_control2",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_phase_best_control2.npz"
+  },
+  {
+    "name": "p17_s119_phase_worst",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_phase_worst.npz"
+  },
+  {
+    "name": "p17_s119_phase_worst_control0",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_phase_worst_control0.npz"
+  },
+  {
+    "name": "p17_s119_phase_worst_control1",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_phase_worst_control1.npz"
+  },
+  {
+    "name": "p17_s119_phase_worst_control2",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_phase_worst_control2.npz"
+  },
+  {
+    "name": "p17_s119_remove",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_remove.npz"
+  },
+  {
+    "name": "p17_s119_remove_control0",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_remove_control0.npz"
+  },
+  {
+    "name": "p17_s119_remove_control1",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_remove_control1.npz"
+  },
+  {
+    "name": "p17_s119_remove_control2",
+    "p": 17,
+    "seed": 119,
+    "kind": "custom",
+    "amount": "p17_s119_remove_control2.npz"
+  },
+  {
+    "name": "p23_s100_phase_best",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_phase_best.npz"
+  },
+  {
+    "name": "p23_s100_phase_best_control0",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_phase_best_control0.npz"
+  },
+  {
+    "name": "p23_s100_phase_best_control1",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_phase_best_control1.npz"
+  },
+  {
+    "name": "p23_s100_phase_best_control2",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_phase_best_control2.npz"
+  },
+  {
+    "name": "p23_s100_phase_worst",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_phase_worst.npz"
+  },
+  {
+    "name": "p23_s100_phase_worst_control0",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_phase_worst_control0.npz"
+  },
+  {
+    "name": "p23_s100_phase_worst_control1",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_phase_worst_control1.npz"
+  },
+  {
+    "name": "p23_s100_phase_worst_control2",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_phase_worst_control2.npz"
+  },
+  {
+    "name": "p23_s100_remove",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_remove.npz"
+  },
+  {
+    "name": "p23_s100_remove_control0",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_remove_control0.npz"
+  },
+  {
+    "name": "p23_s100_remove_control1",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_remove_control1.npz"
+  },
+  {
+    "name": "p23_s100_remove_control2",
+    "p": 23,
+    "seed": 100,
+    "kind": "custom",
+    "amount": "p23_s100_remove_control2.npz"
+  },
+  {
+    "name": "p23_s101_phase_best",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_phase_best.npz"
+  },
+  {
+    "name": "p23_s101_phase_best_control0",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_phase_best_control0.npz"
+  },
+  {
+    "name": "p23_s101_phase_best_control1",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_phase_best_control1.npz"
+  },
+  {
+    "name": "p23_s101_phase_best_control2",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_phase_best_control2.npz"
+  },
+  {
+    "name": "p23_s101_phase_worst",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_phase_worst.npz"
+  },
+  {
+    "name": "p23_s101_phase_worst_control0",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_phase_worst_control0.npz"
+  },
+  {
+    "name": "p23_s101_phase_worst_control1",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_phase_worst_control1.npz"
+  },
+  {
+    "name": "p23_s101_phase_worst_control2",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_phase_worst_control2.npz"
+  },
+  {
+    "name": "p23_s101_remove",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_remove.npz"
+  },
+  {
+    "name": "p23_s101_remove_control0",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_remove_control0.npz"
+  },
+  {
+    "name": "p23_s101_remove_control1",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_remove_control1.npz"
+  },
+  {
+    "name": "p23_s101_remove_control2",
+    "p": 23,
+    "seed": 101,
+    "kind": "custom",
+    "amount": "p23_s101_remove_control2.npz"
+  },
+  {
+    "name": "p23_s102_phase_best",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_phase_best.npz"
+  },
+  {
+    "name": "p23_s102_phase_best_control0",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_phase_best_control0.npz"
+  },
+  {
+    "name": "p23_s102_phase_best_control1",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_phase_best_control1.npz"
+  },
+  {
+    "name": "p23_s102_phase_best_control2",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_phase_best_control2.npz"
+  },
+  {
+    "name": "p23_s102_phase_worst",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_phase_worst.npz"
+  },
+  {
+    "name": "p23_s102_phase_worst_control0",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_phase_worst_control0.npz"
+  },
+  {
+    "name": "p23_s102_phase_worst_control1",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_phase_worst_control1.npz"
+  },
+  {
+    "name": "p23_s102_phase_worst_control2",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_phase_worst_control2.npz"
+  },
+  {
+    "name": "p23_s102_remove",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_remove.npz"
+  },
+  {
+    "name": "p23_s102_remove_control0",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_remove_control0.npz"
+  },
+  {
+    "name": "p23_s102_remove_control1",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_remove_control1.npz"
+  },
+  {
+    "name": "p23_s102_remove_control2",
+    "p": 23,
+    "seed": 102,
+    "kind": "custom",
+    "amount": "p23_s102_remove_control2.npz"
+  },
+  {
+    "name": "p23_s103_phase_best",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_phase_best.npz"
+  },
+  {
+    "name": "p23_s103_phase_best_control0",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_phase_best_control0.npz"
+  },
+  {
+    "name": "p23_s103_phase_best_control1",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_phase_best_control1.npz"
+  },
+  {
+    "name": "p23_s103_phase_best_control2",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_phase_best_control2.npz"
+  },
+  {
+    "name": "p23_s103_phase_worst",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_phase_worst.npz"
+  },
+  {
+    "name": "p23_s103_phase_worst_control0",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_phase_worst_control0.npz"
+  },
+  {
+    "name": "p23_s103_phase_worst_control1",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_phase_worst_control1.npz"
+  },
+  {
+    "name": "p23_s103_phase_worst_control2",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_phase_worst_control2.npz"
+  },
+  {
+    "name": "p23_s103_remove",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_remove.npz"
+  },
+  {
+    "name": "p23_s103_remove_control0",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_remove_control0.npz"
+  },
+  {
+    "name": "p23_s103_remove_control1",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_remove_control1.npz"
+  },
+  {
+    "name": "p23_s103_remove_control2",
+    "p": 23,
+    "seed": 103,
+    "kind": "custom",
+    "amount": "p23_s103_remove_control2.npz"
+  },
+  {
+    "name": "p23_s104_phase_best",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_phase_best.npz"
+  },
+  {
+    "name": "p23_s104_phase_best_control0",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_phase_best_control0.npz"
+  },
+  {
+    "name": "p23_s104_phase_best_control1",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_phase_best_control1.npz"
+  },
+  {
+    "name": "p23_s104_phase_best_control2",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_phase_best_control2.npz"
+  },
+  {
+    "name": "p23_s104_phase_worst",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_phase_worst.npz"
+  },
+  {
+    "name": "p23_s104_phase_worst_control0",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_phase_worst_control0.npz"
+  },
+  {
+    "name": "p23_s104_phase_worst_control1",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_phase_worst_control1.npz"
+  },
+  {
+    "name": "p23_s104_phase_worst_control2",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_phase_worst_control2.npz"
+  },
+  {
+    "name": "p23_s104_remove",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_remove.npz"
+  },
+  {
+    "name": "p23_s104_remove_control0",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_remove_control0.npz"
+  },
+  {
+    "name": "p23_s104_remove_control1",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_remove_control1.npz"
+  },
+  {
+    "name": "p23_s104_remove_control2",
+    "p": 23,
+    "seed": 104,
+    "kind": "custom",
+    "amount": "p23_s104_remove_control2.npz"
+  },
+  {
+    "name": "p23_s105_phase_best",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_phase_best.npz"
+  },
+  {
+    "name": "p23_s105_phase_best_control0",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_phase_best_control0.npz"
+  },
+  {
+    "name": "p23_s105_phase_best_control1",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_phase_best_control1.npz"
+  },
+  {
+    "name": "p23_s105_phase_best_control2",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_phase_best_control2.npz"
+  },
+  {
+    "name": "p23_s105_phase_worst",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_phase_worst.npz"
+  },
+  {
+    "name": "p23_s105_phase_worst_control0",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_phase_worst_control0.npz"
+  },
+  {
+    "name": "p23_s105_phase_worst_control1",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_phase_worst_control1.npz"
+  },
+  {
+    "name": "p23_s105_phase_worst_control2",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_phase_worst_control2.npz"
+  },
+  {
+    "name": "p23_s105_remove",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_remove.npz"
+  },
+  {
+    "name": "p23_s105_remove_control0",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_remove_control0.npz"
+  },
+  {
+    "name": "p23_s105_remove_control1",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_remove_control1.npz"
+  },
+  {
+    "name": "p23_s105_remove_control2",
+    "p": 23,
+    "seed": 105,
+    "kind": "custom",
+    "amount": "p23_s105_remove_control2.npz"
+  },
+  {
+    "name": "p23_s106_phase_best",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_phase_best.npz"
+  },
+  {
+    "name": "p23_s106_phase_best_control0",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_phase_best_control0.npz"
+  },
+  {
+    "name": "p23_s106_phase_best_control1",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_phase_best_control1.npz"
+  },
+  {
+    "name": "p23_s106_phase_best_control2",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_phase_best_control2.npz"
+  },
+  {
+    "name": "p23_s106_phase_worst",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_phase_worst.npz"
+  },
+  {
+    "name": "p23_s106_phase_worst_control0",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_phase_worst_control0.npz"
+  },
+  {
+    "name": "p23_s106_phase_worst_control1",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_phase_worst_control1.npz"
+  },
+  {
+    "name": "p23_s106_phase_worst_control2",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_phase_worst_control2.npz"
+  },
+  {
+    "name": "p23_s106_remove",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_remove.npz"
+  },
+  {
+    "name": "p23_s106_remove_control0",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_remove_control0.npz"
+  },
+  {
+    "name": "p23_s106_remove_control1",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_remove_control1.npz"
+  },
+  {
+    "name": "p23_s106_remove_control2",
+    "p": 23,
+    "seed": 106,
+    "kind": "custom",
+    "amount": "p23_s106_remove_control2.npz"
+  },
+  {
+    "name": "p23_s107_phase_best",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_phase_best.npz"
+  },
+  {
+    "name": "p23_s107_phase_best_control0",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_phase_best_control0.npz"
+  },
+  {
+    "name": "p23_s107_phase_best_control1",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_phase_best_control1.npz"
+  },
+  {
+    "name": "p23_s107_phase_best_control2",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_phase_best_control2.npz"
+  },
+  {
+    "name": "p23_s107_phase_worst",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_phase_worst.npz"
+  },
+  {
+    "name": "p23_s107_phase_worst_control0",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_phase_worst_control0.npz"
+  },
+  {
+    "name": "p23_s107_phase_worst_control1",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_phase_worst_control1.npz"
+  },
+  {
+    "name": "p23_s107_phase_worst_control2",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_phase_worst_control2.npz"
+  },
+  {
+    "name": "p23_s107_remove",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_remove.npz"
+  },
+  {
+    "name": "p23_s107_remove_control0",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_remove_control0.npz"
+  },
+  {
+    "name": "p23_s107_remove_control1",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_remove_control1.npz"
+  },
+  {
+    "name": "p23_s107_remove_control2",
+    "p": 23,
+    "seed": 107,
+    "kind": "custom",
+    "amount": "p23_s107_remove_control2.npz"
+  },
+  {
+    "name": "p23_s108_phase_best",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_phase_best.npz"
+  },
+  {
+    "name": "p23_s108_phase_best_control0",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_phase_best_control0.npz"
+  },
+  {
+    "name": "p23_s108_phase_best_control1",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_phase_best_control1.npz"
+  },
+  {
+    "name": "p23_s108_phase_best_control2",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_phase_best_control2.npz"
+  },
+  {
+    "name": "p23_s108_phase_worst",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_phase_worst.npz"
+  },
+  {
+    "name": "p23_s108_phase_worst_control0",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_phase_worst_control0.npz"
+  },
+  {
+    "name": "p23_s108_phase_worst_control1",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_phase_worst_control1.npz"
+  },
+  {
+    "name": "p23_s108_phase_worst_control2",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_phase_worst_control2.npz"
+  },
+  {
+    "name": "p23_s108_remove",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_remove.npz"
+  },
+  {
+    "name": "p23_s108_remove_control0",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_remove_control0.npz"
+  },
+  {
+    "name": "p23_s108_remove_control1",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_remove_control1.npz"
+  },
+  {
+    "name": "p23_s108_remove_control2",
+    "p": 23,
+    "seed": 108,
+    "kind": "custom",
+    "amount": "p23_s108_remove_control2.npz"
+  },
+  {
+    "name": "p23_s109_phase_best",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_phase_best.npz"
+  },
+  {
+    "name": "p23_s109_phase_best_control0",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_phase_best_control0.npz"
+  },
+  {
+    "name": "p23_s109_phase_best_control1",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_phase_best_control1.npz"
+  },
+  {
+    "name": "p23_s109_phase_best_control2",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_phase_best_control2.npz"
+  },
+  {
+    "name": "p23_s109_phase_worst",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_phase_worst.npz"
+  },
+  {
+    "name": "p23_s109_phase_worst_control0",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_phase_worst_control0.npz"
+  },
+  {
+    "name": "p23_s109_phase_worst_control1",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_phase_worst_control1.npz"
+  },
+  {
+    "name": "p23_s109_phase_worst_control2",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_phase_worst_control2.npz"
+  },
+  {
+    "name": "p23_s109_remove",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_remove.npz"
+  },
+  {
+    "name": "p23_s109_remove_control0",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_remove_control0.npz"
+  },
+  {
+    "name": "p23_s109_remove_control1",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_remove_control1.npz"
+  },
+  {
+    "name": "p23_s109_remove_control2",
+    "p": 23,
+    "seed": 109,
+    "kind": "custom",
+    "amount": "p23_s109_remove_control2.npz"
+  }
+]

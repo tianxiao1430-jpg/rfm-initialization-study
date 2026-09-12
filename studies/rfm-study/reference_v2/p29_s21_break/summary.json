@@ -1,0 +1,39 @@
+{
+  "status": "completed",
+  "config": {
+    "p": 29,
+    "seed": 21,
+    "kind": "break",
+    "epsilon": 0.01,
+    "formula": "code",
+    "kernel": "gaussian",
+    "bandwidth": 2.5,
+    "centering": true,
+    "project": false,
+    "eig_cutoff": 0.0,
+    "dtype": "float64",
+    "device": "cuda",
+    "ridge": 0.0,
+    "iterations": 60,
+    "split": "symmetric",
+    "timeout": 900
+  },
+  "n_rows": 60,
+  "final": {
+    "iteration": 59,
+    "acc": 1.0,
+    "mse": 0.033144656713589765,
+    "mean_margin": 0.0009824288206419201,
+    "min_margin": 0.0008377975128670556,
+    "row_score_std_mean": 0.000957868113533214,
+    "standardized_margin_mean": 1.0251825169344282,
+    "standardized_margin_min": 0.8805455542123506,
+    "centered_prediction_norm": 0.02778457242566375,
+    "relative_residual": 3.388359832547972e-13,
+    "symmetry_defect": 0.09216092628653963,
+    "train_acc": 1.0,
+    "elapsed_s": 4.450947257999999
+  },
+  "elapsed_s": 4.491546745999997,
+  "error": null
+}

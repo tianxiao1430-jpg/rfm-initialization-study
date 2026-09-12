@@ -1,0 +1,182 @@
+[
+  {
+    "p": 17,
+    "seed": 20,
+    "kind": "circ",
+    "derivative_norm": 1.6584546743563262,
+    "circulant_cross_output_norm": 1.6584546743563269,
+    "min_eigen": -1.5404292229365452e-15,
+    "nonzero_min": 0.744124738810665,
+    "sylvester_residual": 2.033742535638803e-15
+  },
+  {
+    "p": 17,
+    "seed": 20,
+    "kind": "residual",
+    "derivative_norm": 0.8866277742989649,
+    "circulant_cross_output_norm": 5.301102288442073e-16,
+    "min_eigen": -1.5404292229365452e-15,
+    "nonzero_min": 0.744124738810665,
+    "sylvester_residual": 2.1200348303008492e-15
+  },
+  {
+    "p": 17,
+    "seed": 20,
+    "kind": "diag",
+    "derivative_norm": 0.284724508380719,
+    "circulant_cross_output_norm": 1.703534518458678e-16,
+    "min_eigen": -1.5404292229365452e-15,
+    "nonzero_min": 0.744124738810665,
+    "sylvester_residual": 2.0152669240810254e-15
+  },
+  {
+    "p": 17,
+    "seed": 21,
+    "kind": "circ",
+    "derivative_norm": 1.658354570061114,
+    "circulant_cross_output_norm": 1.6583545700611144,
+    "min_eigen": -1.5404292229365452e-15,
+    "nonzero_min": 0.744124738810665,
+    "sylvester_residual": 2.1316307609359067e-15
+  },
+  {
+    "p": 17,
+    "seed": 21,
+    "kind": "residual",
+    "derivative_norm": 0.8904880332804805,
+    "circulant_cross_output_norm": 7.931632474414198e-16,
+    "min_eigen": -1.5404292229365452e-15,
+    "nonzero_min": 0.744124738810665,
+    "sylvester_residual": 1.9094791988006527e-15
+  },
+  {
+    "p": 17,
+    "seed": 21,
+    "kind": "diag",
+    "derivative_norm": 0.23540158301665345,
+    "circulant_cross_output_norm": 1.7988053732759283e-16,
+    "min_eigen": -1.5404292229365452e-15,
+    "nonzero_min": 0.744124738810665,
+    "sylvester_residual": 2.1967345886810136e-15
+  },
+  {
+    "p": 23,
+    "seed": 20,
+    "kind": "circ",
+    "derivative_norm": 1.6907999219710965,
+    "circulant_cross_output_norm": 1.6907999219710963,
+    "min_eigen": -5.105585763585274e-15,
+    "nonzero_min": 0.7730735372217225,
+    "sylvester_residual": 2.298669018733469e-15
+  },
+  {
+    "p": 23,
+    "seed": 20,
+    "kind": "residual",
+    "derivative_norm": 0.8999646168505157,
+    "circulant_cross_output_norm": 7.458463379134556e-16,
+    "min_eigen": -5.105585763585274e-15,
+    "nonzero_min": 0.7730735372217225,
+    "sylvester_residual": 2.2726349813220476e-15
+  },
+  {
+    "p": 23,
+    "seed": 20,
+    "kind": "diag",
+    "derivative_norm": 0.36005395756937286,
+    "circulant_cross_output_norm": 9.433185413283217e-17,
+    "min_eigen": -5.105585763585274e-15,
+    "nonzero_min": 0.7730735372217225,
+    "sylvester_residual": 2.904105703743043e-15
+  },
+  {
+    "p": 23,
+    "seed": 21,
+    "kind": "circ",
+    "derivative_norm": 1.6905260763114662,
+    "circulant_cross_output_norm": 1.6905260763114676,
+    "min_eigen": -5.105585763585274e-15,
+    "nonzero_min": 0.7730735372217225,
+    "sylvester_residual": 2.3138731336534496e-15
+  },
+  {
+    "p": 23,
+    "seed": 21,
+    "kind": "residual",
+    "derivative_norm": 0.9005341145419873,
+    "circulant_cross_output_norm": 8.454897646200251e-16,
+    "min_eigen": -5.105585763585274e-15,
+    "nonzero_min": 0.7730735372217225,
+    "sylvester_residual": 2.400087617005012e-15
+  },
+  {
+    "p": 23,
+    "seed": 21,
+    "kind": "diag",
+    "derivative_norm": 0.2981929312739356,
+    "circulant_cross_output_norm": 1.386818723444728e-16,
+    "min_eigen": -5.105585763585274e-15,
+    "nonzero_min": 0.7730735372217225,
+    "sylvester_residual": 2.7871401130490142e-15
+  },
+  {
+    "p": 29,
+    "seed": 20,
+    "kind": "circ",
+    "derivative_norm": 1.708686924901414,
+    "circulant_cross_output_norm": 1.7086869249014147,
+    "min_eigen": -2.7861709027624078e-15,
+    "nonzero_min": 0.7896206444210416,
+    "sylvester_residual": 2.129173294163528e-15
+  },
+  {
+    "p": 29,
+    "seed": 20,
+    "kind": "residual",
+    "derivative_norm": 0.905205649101073,
+    "circulant_cross_output_norm": 5.483065663489037e-16,
+    "min_eigen": -2.7861709027624078e-15,
+    "nonzero_min": 0.7896206444210416,
+    "sylvester_residual": 2.2132828238391358e-15
+  },
+  {
+    "p": 29,
+    "seed": 20,
+    "kind": "diag",
+    "derivative_norm": 0.26985295940556514,
+    "circulant_cross_output_norm": 1.0385871747883804e-16,
+    "min_eigen": -2.7861709027624078e-15,
+    "nonzero_min": 0.7896206444210416,
+    "sylvester_residual": 2.8329478074754747e-15
+  },
+  {
+    "p": 29,
+    "seed": 21,
+    "kind": "circ",
+    "derivative_norm": 1.7086529999432882,
+    "circulant_cross_output_norm": 1.7086529999432882,
+    "min_eigen": -2.7861709027624078e-15,
+    "nonzero_min": 0.7896206444210416,
+    "sylvester_residual": 2.043569356185345e-15
+  },
+  {
+    "p": 29,
+    "seed": 21,
+    "kind": "residual",
+    "derivative_norm": 0.9078999407927973,
+    "circulant_cross_output_norm": 7.186106553527218e-16,
+    "min_eigen": -2.7861709027624078e-15,
+    "nonzero_min": 0.7896206444210416,
+    "sylvester_residual": 2.274355106049005e-15
+  },
+  {
+    "p": 29,
+    "seed": 21,
+    "kind": "diag",
+    "derivative_norm": 0.25285336713380757,
+    "circulant_cross_output_norm": 1.1288566708599334e-16,
+    "min_eigen": -2.7861709027624078e-15,
+    "nonzero_min": 0.7896206444210416,
+    "sylvester_residual": 2.175322856353218e-15
+  }
+]

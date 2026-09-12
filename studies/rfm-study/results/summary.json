@@ -1,0 +1,38 @@
+{
+  "totals": {
+    "discovery": {
+      "runs": 82,
+      "records": 4920,
+      "elapsed_s": 105.03959283900001
+    },
+    "probe": {
+      "runs": 50,
+      "records": 300,
+      "elapsed_s": 6.4887992929999925
+    },
+    "operator": {
+      "runs": 112,
+      "records": 6720,
+      "elapsed_s": 155.47131103100006
+    },
+    "confirmation": {
+      "runs": 80,
+      "records": 4800,
+      "elapsed_s": 116.87968741100013
+    },
+    "intervention": {
+      "runs": 360,
+      "records": 21600,
+      "elapsed_s": 430.0073032670009
+    },
+    "boundary": {
+      "runs": 160,
+      "records": 9600,
+      "elapsed_s": 187.78576727899986
+    }
+  },
+  "runs": 844,
+  "records": 47940,
+  "statistical_units": "40 new discovery directions; 50 p17 + 30 p23 confirmation directions. Paired interventions, deterministic basis probes and repeated old seeds are not extra independent directions.",
+  "scope": "local synthetic Gaussian RFM; no external feedback or publication"
+}

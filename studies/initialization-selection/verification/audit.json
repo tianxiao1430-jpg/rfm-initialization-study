@@ -1,0 +1,115 @@
+{
+  "utc": "2026-09-08T16:42:25.527961+00:00",
+  "passed": true,
+  "decision_replays": 160,
+  "prediction_rows_recomputed": 200,
+  "repeats": [
+    {
+      "name": "p17-s2000-bank",
+      "choice_exact": true,
+      "candidate_metrics_exact": true,
+      "array_max_abs_differences": {
+        "m": 0.0,
+        "alpha": 0.0,
+        "k": 0.0,
+        "index": 0.0,
+        "validation_history": 0.0,
+        "m0": 0.0
+      }
+    },
+    {
+      "name": "p17-s2000-random_probe",
+      "choice_exact": true,
+      "candidate_metrics_exact": true,
+      "array_max_abs_differences": {
+        "m": 0.0,
+        "alpha": 0.0,
+        "k": 0.0,
+        "index": 0.0,
+        "validation_history": 0.0,
+        "m0": 0.0
+      }
+    },
+    {
+      "name": "p17-s2000-greedy_probe",
+      "choice_exact": true,
+      "candidate_metrics_exact": true,
+      "array_max_abs_differences": {
+        "m": 0.0,
+        "alpha": 0.0,
+        "k": 0.0,
+        "index": 0.0,
+        "validation_history": 0.0,
+        "m0": 0.0
+      }
+    },
+    {
+      "name": "p17-s2000-random_full",
+      "choice_exact": true,
+      "candidate_metrics_exact": true,
+      "array_max_abs_differences": {
+        "m": 0.0,
+        "alpha": 0.0,
+        "k": 0.0,
+        "index": 0.0,
+        "validation_history": 0.0,
+        "m0": 0.0
+      }
+    },
+    {
+      "name": "p23-s3000-bank",
+      "choice_exact": true,
+      "candidate_metrics_exact": true,
+      "array_max_abs_differences": {
+        "m": 0.0,
+        "alpha": 0.0,
+        "k": 0.0,
+        "index": 0.0,
+        "validation_history": 0.0,
+        "m0": 0.0
+      }
+    },
+    {
+      "name": "p23-s3000-random_probe",
+      "choice_exact": true,
+      "candidate_metrics_exact": true,
+      "array_max_abs_differences": {
+        "m": 0.0,
+        "alpha": 0.0,
+        "k": 0.0,
+        "index": 0.0,
+        "validation_history": 0.0,
+        "m0": 0.0
+      }
+    },
+    {
+      "name": "p23-s3000-greedy_probe",
+      "choice_exact": true,
+      "candidate_metrics_exact": true,
+      "array_max_abs_differences": {
+        "m": 0.0,
+        "alpha": 0.0,
+        "k": 0.0,
+        "index": 0.0,
+        "validation_history": 0.0,
+        "m0": 0.0
+      }
+    },
+    {
+      "name": "p23-s3000-random_full",
+      "choice_exact": true,
+      "candidate_metrics_exact": true,
+      "array_max_abs_differences": {
+        "m": 0.0,
+        "alpha": 0.0,
+        "k": 0.0,
+        "index": 0.0,
+        "validation_history": 0.0,
+        "m0": 0.0
+      }
+    }
+  ],
+  "old_manuscript_unchanged": true,
+  "vendor_unchanged": true,
+  "freeze_and_seals_valid": true
+}

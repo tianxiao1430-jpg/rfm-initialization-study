@@ -1,0 +1,32 @@
+{
+  "status": "completed",
+  "config": {
+    "p": 17,
+    "seed": 104,
+    "kind": "custom",
+    "epsilon": 0.01,
+    "amount": "p17_s104_phase_best_control0.npz",
+    "formula": "code",
+    "centering": true,
+    "eig_cutoff": 0.0,
+    "ridge": 0.0,
+    "bandwidth": 2.5,
+    "iterations": 60,
+    "device": "cuda",
+    "dtype": "float64",
+    "timeout": 600
+  },
+  "n_rows": 60,
+  "final": {
+    "iteration": 59,
+    "acc": 0.058823529411764705,
+    "mse": 0.05526995543423062,
+    "mean_margin": -0.00020063034630094038,
+    "min_margin": -0.0004794223020140598,
+    "relative_residual": 3.4721676798497407e-14,
+    "symmetry_defect": 0.0951310090954107,
+    "elapsed_s": 1.0609267250000016
+  },
+  "error": null,
+  "elapsed_s": 1.0858885869999995
+}

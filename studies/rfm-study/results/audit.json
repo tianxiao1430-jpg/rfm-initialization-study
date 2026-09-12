@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "runs": 844,
+  "records": 47940,
+  "freeze_entries_checked": 393,
+  "max_metric_abs_difference": 1.1102230246251565e-16,
+  "max_initial_norm_error": 9.71445146547012e-17,
+  "min_final_relative_eigenvalue": -2.246949325439928e-16,
+  "forecasts_recomputed": 80,
+  "max_forecast_difference": 0.0,
+  "old_trajectories_bitwise": 20,
+  "numerical_cases": 16,
+  "mp50_cases": 2,
+  "scope": "all stored scores/configs/data and provenance; higher-precision final readout on listed cases; no arbitrary-precision training",
+  "statistical_note": "same integer seeds across moduli may share RNG draws; within-modulus inference is primary; pooled seed-cluster sensitivity is supplied"
+}

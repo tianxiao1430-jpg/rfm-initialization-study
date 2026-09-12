@@ -1,0 +1,32 @@
+{
+  "status": "completed",
+  "config": {
+    "p": 17,
+    "seed": 109,
+    "kind": "custom",
+    "epsilon": 0.01,
+    "amount": "p17_s109_remove_control2.npz",
+    "formula": "code",
+    "centering": true,
+    "eig_cutoff": 0.0,
+    "ridge": 0.0,
+    "bandwidth": 2.5,
+    "iterations": 60,
+    "device": "cuda",
+    "dtype": "float64",
+    "timeout": 600
+  },
+  "n_rows": 60,
+  "final": {
+    "iteration": 59,
+    "acc": 1.0,
+    "mse": 0.0547136685465899,
+    "mean_margin": 0.004059262569237882,
+    "min_margin": 0.0035922093395644866,
+    "relative_residual": 3.5780396532518356e-14,
+    "symmetry_defect": 0.12355627835678668,
+    "elapsed_s": 0.8941239769999925
+  },
+  "error": null,
+  "elapsed_s": 0.9211191900000131
+}

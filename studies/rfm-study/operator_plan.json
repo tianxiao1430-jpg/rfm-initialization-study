@@ -1,0 +1,873 @@
+[
+  {
+    "name": "p17_none",
+    "p": 17,
+    "kind": "none",
+    "epsilon": 0.0
+  },
+  {
+    "name": "p17_mode1",
+    "p": 17,
+    "seed": 1,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair1_2",
+    "p": 17,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 2,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair1_3",
+    "p": 17,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 3,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair1_4",
+    "p": 17,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 4,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair1_5",
+    "p": 17,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 5,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair1_6",
+    "p": 17,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 6,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair1_7",
+    "p": 17,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair1_8",
+    "p": 17,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_mode2",
+    "p": 17,
+    "seed": 2,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair2_3",
+    "p": 17,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 3,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair2_4",
+    "p": 17,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 4,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair2_5",
+    "p": 17,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 5,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair2_6",
+    "p": 17,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 6,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair2_7",
+    "p": 17,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair2_8",
+    "p": 17,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_mode3",
+    "p": 17,
+    "seed": 3,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair3_4",
+    "p": 17,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 4,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair3_5",
+    "p": 17,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 5,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair3_6",
+    "p": 17,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 6,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair3_7",
+    "p": 17,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair3_8",
+    "p": 17,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_mode4",
+    "p": 17,
+    "seed": 4,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair4_5",
+    "p": 17,
+    "seed": 4,
+    "kind": "mode_pair",
+    "amount": 5,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair4_6",
+    "p": 17,
+    "seed": 4,
+    "kind": "mode_pair",
+    "amount": 6,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair4_7",
+    "p": 17,
+    "seed": 4,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair4_8",
+    "p": 17,
+    "seed": 4,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_mode5",
+    "p": 17,
+    "seed": 5,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair5_6",
+    "p": 17,
+    "seed": 5,
+    "kind": "mode_pair",
+    "amount": 6,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair5_7",
+    "p": 17,
+    "seed": 5,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair5_8",
+    "p": 17,
+    "seed": 5,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_mode6",
+    "p": 17,
+    "seed": 6,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair6_7",
+    "p": 17,
+    "seed": 6,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair6_8",
+    "p": 17,
+    "seed": 6,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_mode7",
+    "p": 17,
+    "seed": 7,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_pair7_8",
+    "p": 17,
+    "seed": 7,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_mode8",
+    "p": 17,
+    "seed": 8,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_none",
+    "p": 23,
+    "kind": "none",
+    "epsilon": 0.0
+  },
+  {
+    "name": "p23_mode1",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair1_2",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 2,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair1_3",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 3,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair1_4",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 4,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair1_5",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 5,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair1_6",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 6,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair1_7",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair1_8",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair1_9",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 9,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair1_10",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 10,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair1_11",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_pair",
+    "amount": 11,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_mode2",
+    "p": 23,
+    "seed": 2,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair2_3",
+    "p": 23,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 3,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair2_4",
+    "p": 23,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 4,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair2_5",
+    "p": 23,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 5,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair2_6",
+    "p": 23,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 6,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair2_7",
+    "p": 23,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair2_8",
+    "p": 23,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair2_9",
+    "p": 23,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 9,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair2_10",
+    "p": 23,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 10,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair2_11",
+    "p": 23,
+    "seed": 2,
+    "kind": "mode_pair",
+    "amount": 11,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_mode3",
+    "p": 23,
+    "seed": 3,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair3_4",
+    "p": 23,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 4,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair3_5",
+    "p": 23,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 5,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair3_6",
+    "p": 23,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 6,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair3_7",
+    "p": 23,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair3_8",
+    "p": 23,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair3_9",
+    "p": 23,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 9,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair3_10",
+    "p": 23,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 10,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair3_11",
+    "p": 23,
+    "seed": 3,
+    "kind": "mode_pair",
+    "amount": 11,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_mode4",
+    "p": 23,
+    "seed": 4,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair4_5",
+    "p": 23,
+    "seed": 4,
+    "kind": "mode_pair",
+    "amount": 5,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair4_6",
+    "p": 23,
+    "seed": 4,
+    "kind": "mode_pair",
+    "amount": 6,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair4_7",
+    "p": 23,
+    "seed": 4,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair4_8",
+    "p": 23,
+    "seed": 4,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair4_9",
+    "p": 23,
+    "seed": 4,
+    "kind": "mode_pair",
+    "amount": 9,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair4_10",
+    "p": 23,
+    "seed": 4,
+    "kind": "mode_pair",
+    "amount": 10,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair4_11",
+    "p": 23,
+    "seed": 4,
+    "kind": "mode_pair",
+    "amount": 11,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_mode5",
+    "p": 23,
+    "seed": 5,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair5_6",
+    "p": 23,
+    "seed": 5,
+    "kind": "mode_pair",
+    "amount": 6,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair5_7",
+    "p": 23,
+    "seed": 5,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair5_8",
+    "p": 23,
+    "seed": 5,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair5_9",
+    "p": 23,
+    "seed": 5,
+    "kind": "mode_pair",
+    "amount": 9,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair5_10",
+    "p": 23,
+    "seed": 5,
+    "kind": "mode_pair",
+    "amount": 10,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair5_11",
+    "p": 23,
+    "seed": 5,
+    "kind": "mode_pair",
+    "amount": 11,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_mode6",
+    "p": 23,
+    "seed": 6,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair6_7",
+    "p": 23,
+    "seed": 6,
+    "kind": "mode_pair",
+    "amount": 7,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair6_8",
+    "p": 23,
+    "seed": 6,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair6_9",
+    "p": 23,
+    "seed": 6,
+    "kind": "mode_pair",
+    "amount": 9,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair6_10",
+    "p": 23,
+    "seed": 6,
+    "kind": "mode_pair",
+    "amount": 10,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair6_11",
+    "p": 23,
+    "seed": 6,
+    "kind": "mode_pair",
+    "amount": 11,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_mode7",
+    "p": 23,
+    "seed": 7,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair7_8",
+    "p": 23,
+    "seed": 7,
+    "kind": "mode_pair",
+    "amount": 8,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair7_9",
+    "p": 23,
+    "seed": 7,
+    "kind": "mode_pair",
+    "amount": 9,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair7_10",
+    "p": 23,
+    "seed": 7,
+    "kind": "mode_pair",
+    "amount": 10,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair7_11",
+    "p": 23,
+    "seed": 7,
+    "kind": "mode_pair",
+    "amount": 11,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_mode8",
+    "p": 23,
+    "seed": 8,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair8_9",
+    "p": 23,
+    "seed": 8,
+    "kind": "mode_pair",
+    "amount": 9,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair8_10",
+    "p": 23,
+    "seed": 8,
+    "kind": "mode_pair",
+    "amount": 10,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair8_11",
+    "p": 23,
+    "seed": 8,
+    "kind": "mode_pair",
+    "amount": 11,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_mode9",
+    "p": 23,
+    "seed": 9,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair9_10",
+    "p": 23,
+    "seed": 9,
+    "kind": "mode_pair",
+    "amount": 10,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair9_11",
+    "p": 23,
+    "seed": 9,
+    "kind": "mode_pair",
+    "amount": 11,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_mode10",
+    "p": 23,
+    "seed": 10,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_pair10_11",
+    "p": 23,
+    "seed": 10,
+    "kind": "mode_pair",
+    "amount": 11,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_mode11",
+    "p": 23,
+    "seed": 11,
+    "kind": "mode",
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_difference1_2",
+    "p": 17,
+    "seed": 1,
+    "kind": "mode_difference",
+    "amount": 2,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_difference1_3",
+    "p": 17,
+    "seed": 1,
+    "kind": "mode_difference",
+    "amount": 3,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_difference2_3",
+    "p": 17,
+    "seed": 2,
+    "kind": "mode_difference",
+    "amount": 3,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p17_mode1_half",
+    "p": 17,
+    "seed": 1,
+    "kind": "mode",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p23_difference1_2",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_difference",
+    "amount": 2,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_difference1_3",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode_difference",
+    "amount": 3,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_difference2_3",
+    "p": 23,
+    "seed": 2,
+    "kind": "mode_difference",
+    "amount": 3,
+    "epsilon": 0.002
+  },
+  {
+    "name": "p23_mode1_half",
+    "p": 23,
+    "seed": 1,
+    "kind": "mode",
+    "epsilon": 0.001
+  }
+]

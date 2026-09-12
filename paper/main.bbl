@@ -1,0 +1,41 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bernal et~al.(2026)Bernal, Mallinar, and Belkin]{bernal2026}
+Marcel~Tom{\`a}s Bernal, Neil~Rohit Mallinar, and Mikhail Belkin.
+\newblock Breaking data symmetry is needed for generalization in feature
+  learning kernels.
+\newblock arXiv:2604.00316v2, 2026.
+\newblock URL \url{https://arxiv.org/abs/2604.00316}.
+\newblock Accepted to AISTATS 2026.
+
+\bibitem[Gu et~al.(2025)Gu, Chen, Zhang, Hu, and Cao]{gu2025}
+Zihan Gu, Ruoyu Chen, Hua Zhang, Yue Hu, and Xiaochun Cao.
+\newblock Beyond progress measures: Theoretical insights into the mechanism of
+  grokking.
+\newblock arXiv:2504.03162v2, 2025.
+\newblock URL \url{https://arxiv.org/abs/2504.03162}.
+
+\bibitem[He et~al.(2026)He, Wang, Chen, and Yang]{he2026}
+Jianliang He, Leda Wang, Siyu Chen, and Zhuoran Yang.
+\newblock On the mechanism and dynamics of modular addition: {Fourier}
+  features, lottery ticket, and grokking.
+\newblock arXiv:2602.16849, 2026.
+\newblock URL \url{https://arxiv.org/abs/2602.16849}.
+
+\bibitem[Mallinar et~al.(2025)Mallinar, Beaglehole, Zhu, Radhakrishnan, Pandit,
+  and Belkin]{mallinar2025}
+Neil~Rohit Mallinar, Daniel Beaglehole, Libin Zhu, Adityanarayanan
+  Radhakrishnan, Parthe Pandit, and Mikhail Belkin.
+\newblock Emergence in non-neural models: grokking modular arithmetic via
+  average gradient outer product.
+\newblock In \emph{Proceedings of the 42nd International Conference on Machine
+  Learning}, volume 267 of \emph{Proceedings of Machine Learning Research},
+  pages 42834--42856. PMLR, 2025.
+\newblock URL \url{https://proceedings.mlr.press/v267/mallinar25a.html}.
+
+\end{thebibliography}

@@ -1,0 +1,1142 @@
+[
+  {
+    "name": "p17_s100_paper",
+    "p": 17,
+    "seed": 100,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p17_s100_uncentered",
+    "p": 17,
+    "seed": 100,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p17_s100_paper_uncentered",
+    "p": 17,
+    "seed": 100,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p17_s100_bw15",
+    "p": 17,
+    "seed": 100,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p17_s100_bw20",
+    "p": 17,
+    "seed": 100,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p17_s100_bw30",
+    "p": 17,
+    "seed": 100,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p17_s100_eps001",
+    "p": 17,
+    "seed": 100,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p17_s100_eps03",
+    "p": 17,
+    "seed": 100,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p17_s101_paper",
+    "p": 17,
+    "seed": 101,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p17_s101_uncentered",
+    "p": 17,
+    "seed": 101,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p17_s101_paper_uncentered",
+    "p": 17,
+    "seed": 101,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p17_s101_bw15",
+    "p": 17,
+    "seed": 101,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p17_s101_bw20",
+    "p": 17,
+    "seed": 101,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p17_s101_bw30",
+    "p": 17,
+    "seed": 101,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p17_s101_eps001",
+    "p": 17,
+    "seed": 101,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p17_s101_eps03",
+    "p": 17,
+    "seed": 101,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p17_s102_paper",
+    "p": 17,
+    "seed": 102,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p17_s102_uncentered",
+    "p": 17,
+    "seed": 102,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p17_s102_paper_uncentered",
+    "p": 17,
+    "seed": 102,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p17_s102_bw15",
+    "p": 17,
+    "seed": 102,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p17_s102_bw20",
+    "p": 17,
+    "seed": 102,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p17_s102_bw30",
+    "p": 17,
+    "seed": 102,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p17_s102_eps001",
+    "p": 17,
+    "seed": 102,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p17_s102_eps03",
+    "p": 17,
+    "seed": 102,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p17_s103_paper",
+    "p": 17,
+    "seed": 103,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p17_s103_uncentered",
+    "p": 17,
+    "seed": 103,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p17_s103_paper_uncentered",
+    "p": 17,
+    "seed": 103,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p17_s103_bw15",
+    "p": 17,
+    "seed": 103,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p17_s103_bw20",
+    "p": 17,
+    "seed": 103,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p17_s103_bw30",
+    "p": 17,
+    "seed": 103,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p17_s103_eps001",
+    "p": 17,
+    "seed": 103,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p17_s103_eps03",
+    "p": 17,
+    "seed": 103,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p17_s104_paper",
+    "p": 17,
+    "seed": 104,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p17_s104_uncentered",
+    "p": 17,
+    "seed": 104,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p17_s104_paper_uncentered",
+    "p": 17,
+    "seed": 104,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p17_s104_bw15",
+    "p": 17,
+    "seed": 104,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p17_s104_bw20",
+    "p": 17,
+    "seed": 104,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p17_s104_bw30",
+    "p": 17,
+    "seed": 104,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p17_s104_eps001",
+    "p": 17,
+    "seed": 104,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p17_s104_eps03",
+    "p": 17,
+    "seed": 104,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p17_s105_paper",
+    "p": 17,
+    "seed": 105,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p17_s105_uncentered",
+    "p": 17,
+    "seed": 105,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p17_s105_paper_uncentered",
+    "p": 17,
+    "seed": 105,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p17_s105_bw15",
+    "p": 17,
+    "seed": 105,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p17_s105_bw20",
+    "p": 17,
+    "seed": 105,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p17_s105_bw30",
+    "p": 17,
+    "seed": 105,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p17_s105_eps001",
+    "p": 17,
+    "seed": 105,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p17_s105_eps03",
+    "p": 17,
+    "seed": 105,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p17_s106_paper",
+    "p": 17,
+    "seed": 106,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p17_s106_uncentered",
+    "p": 17,
+    "seed": 106,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p17_s106_paper_uncentered",
+    "p": 17,
+    "seed": 106,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p17_s106_bw15",
+    "p": 17,
+    "seed": 106,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p17_s106_bw20",
+    "p": 17,
+    "seed": 106,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p17_s106_bw30",
+    "p": 17,
+    "seed": 106,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p17_s106_eps001",
+    "p": 17,
+    "seed": 106,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p17_s106_eps03",
+    "p": 17,
+    "seed": 106,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p17_s107_paper",
+    "p": 17,
+    "seed": 107,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p17_s107_uncentered",
+    "p": 17,
+    "seed": 107,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p17_s107_paper_uncentered",
+    "p": 17,
+    "seed": 107,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p17_s107_bw15",
+    "p": 17,
+    "seed": 107,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p17_s107_bw20",
+    "p": 17,
+    "seed": 107,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p17_s107_bw30",
+    "p": 17,
+    "seed": 107,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p17_s107_eps001",
+    "p": 17,
+    "seed": 107,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p17_s107_eps03",
+    "p": 17,
+    "seed": 107,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p17_s108_paper",
+    "p": 17,
+    "seed": 108,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p17_s108_uncentered",
+    "p": 17,
+    "seed": 108,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p17_s108_paper_uncentered",
+    "p": 17,
+    "seed": 108,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p17_s108_bw15",
+    "p": 17,
+    "seed": 108,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p17_s108_bw20",
+    "p": 17,
+    "seed": 108,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p17_s108_bw30",
+    "p": 17,
+    "seed": 108,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p17_s108_eps001",
+    "p": 17,
+    "seed": 108,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p17_s108_eps03",
+    "p": 17,
+    "seed": 108,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p17_s109_paper",
+    "p": 17,
+    "seed": 109,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p17_s109_uncentered",
+    "p": 17,
+    "seed": 109,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p17_s109_paper_uncentered",
+    "p": 17,
+    "seed": 109,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p17_s109_bw15",
+    "p": 17,
+    "seed": 109,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p17_s109_bw20",
+    "p": 17,
+    "seed": 109,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p17_s109_bw30",
+    "p": 17,
+    "seed": 109,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p17_s109_eps001",
+    "p": 17,
+    "seed": 109,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p17_s109_eps03",
+    "p": 17,
+    "seed": 109,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p23_s100_paper",
+    "p": 23,
+    "seed": 100,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p23_s100_uncentered",
+    "p": 23,
+    "seed": 100,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p23_s100_paper_uncentered",
+    "p": 23,
+    "seed": 100,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p23_s100_bw15",
+    "p": 23,
+    "seed": 100,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p23_s100_bw20",
+    "p": 23,
+    "seed": 100,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p23_s100_bw30",
+    "p": 23,
+    "seed": 100,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p23_s100_eps001",
+    "p": 23,
+    "seed": 100,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p23_s100_eps03",
+    "p": 23,
+    "seed": 100,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p23_s101_paper",
+    "p": 23,
+    "seed": 101,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p23_s101_uncentered",
+    "p": 23,
+    "seed": 101,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p23_s101_paper_uncentered",
+    "p": 23,
+    "seed": 101,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p23_s101_bw15",
+    "p": 23,
+    "seed": 101,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p23_s101_bw20",
+    "p": 23,
+    "seed": 101,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p23_s101_bw30",
+    "p": 23,
+    "seed": 101,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p23_s101_eps001",
+    "p": 23,
+    "seed": 101,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p23_s101_eps03",
+    "p": 23,
+    "seed": 101,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p23_s102_paper",
+    "p": 23,
+    "seed": 102,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p23_s102_uncentered",
+    "p": 23,
+    "seed": 102,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p23_s102_paper_uncentered",
+    "p": 23,
+    "seed": 102,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p23_s102_bw15",
+    "p": 23,
+    "seed": 102,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p23_s102_bw20",
+    "p": 23,
+    "seed": 102,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p23_s102_bw30",
+    "p": 23,
+    "seed": 102,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p23_s102_eps001",
+    "p": 23,
+    "seed": 102,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p23_s102_eps03",
+    "p": 23,
+    "seed": 102,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p23_s103_paper",
+    "p": 23,
+    "seed": 103,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p23_s103_uncentered",
+    "p": 23,
+    "seed": 103,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p23_s103_paper_uncentered",
+    "p": 23,
+    "seed": 103,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p23_s103_bw15",
+    "p": 23,
+    "seed": 103,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p23_s103_bw20",
+    "p": 23,
+    "seed": 103,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p23_s103_bw30",
+    "p": 23,
+    "seed": 103,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p23_s103_eps001",
+    "p": 23,
+    "seed": 103,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p23_s103_eps03",
+    "p": 23,
+    "seed": 103,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p23_s104_paper",
+    "p": 23,
+    "seed": 104,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p23_s104_uncentered",
+    "p": 23,
+    "seed": 104,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p23_s104_paper_uncentered",
+    "p": 23,
+    "seed": 104,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p23_s104_bw15",
+    "p": 23,
+    "seed": 104,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p23_s104_bw20",
+    "p": 23,
+    "seed": 104,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p23_s104_bw30",
+    "p": 23,
+    "seed": 104,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p23_s104_eps001",
+    "p": 23,
+    "seed": 104,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p23_s104_eps03",
+    "p": 23,
+    "seed": 104,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p23_s105_paper",
+    "p": 23,
+    "seed": 105,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p23_s105_uncentered",
+    "p": 23,
+    "seed": 105,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p23_s105_paper_uncentered",
+    "p": 23,
+    "seed": 105,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p23_s105_bw15",
+    "p": 23,
+    "seed": 105,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p23_s105_bw20",
+    "p": 23,
+    "seed": 105,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p23_s105_bw30",
+    "p": 23,
+    "seed": 105,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p23_s105_eps001",
+    "p": 23,
+    "seed": 105,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p23_s105_eps03",
+    "p": 23,
+    "seed": 105,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p23_s106_paper",
+    "p": 23,
+    "seed": 106,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p23_s106_uncentered",
+    "p": 23,
+    "seed": 106,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p23_s106_paper_uncentered",
+    "p": 23,
+    "seed": 106,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p23_s106_bw15",
+    "p": 23,
+    "seed": 106,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p23_s106_bw20",
+    "p": 23,
+    "seed": 106,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p23_s106_bw30",
+    "p": 23,
+    "seed": 106,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p23_s106_eps001",
+    "p": 23,
+    "seed": 106,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p23_s106_eps03",
+    "p": 23,
+    "seed": 106,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p23_s107_paper",
+    "p": 23,
+    "seed": 107,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p23_s107_uncentered",
+    "p": 23,
+    "seed": 107,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p23_s107_paper_uncentered",
+    "p": 23,
+    "seed": 107,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p23_s107_bw15",
+    "p": 23,
+    "seed": 107,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p23_s107_bw20",
+    "p": 23,
+    "seed": 107,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p23_s107_bw30",
+    "p": 23,
+    "seed": 107,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p23_s107_eps001",
+    "p": 23,
+    "seed": 107,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p23_s107_eps03",
+    "p": 23,
+    "seed": 107,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p23_s108_paper",
+    "p": 23,
+    "seed": 108,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p23_s108_uncentered",
+    "p": 23,
+    "seed": 108,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p23_s108_paper_uncentered",
+    "p": 23,
+    "seed": 108,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p23_s108_bw15",
+    "p": 23,
+    "seed": 108,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p23_s108_bw20",
+    "p": 23,
+    "seed": 108,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p23_s108_bw30",
+    "p": 23,
+    "seed": 108,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p23_s108_eps001",
+    "p": 23,
+    "seed": 108,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p23_s108_eps03",
+    "p": 23,
+    "seed": 108,
+    "kind": "cross",
+    "epsilon": 0.03
+  },
+  {
+    "name": "p23_s109_paper",
+    "p": 23,
+    "seed": 109,
+    "kind": "cross",
+    "formula": "paper"
+  },
+  {
+    "name": "p23_s109_uncentered",
+    "p": 23,
+    "seed": 109,
+    "kind": "cross",
+    "centering": false
+  },
+  {
+    "name": "p23_s109_paper_uncentered",
+    "p": 23,
+    "seed": 109,
+    "kind": "cross",
+    "formula": "paper",
+    "centering": false
+  },
+  {
+    "name": "p23_s109_bw15",
+    "p": 23,
+    "seed": 109,
+    "kind": "cross",
+    "bandwidth": 1.5
+  },
+  {
+    "name": "p23_s109_bw20",
+    "p": 23,
+    "seed": 109,
+    "kind": "cross",
+    "bandwidth": 2.0
+  },
+  {
+    "name": "p23_s109_bw30",
+    "p": 23,
+    "seed": 109,
+    "kind": "cross",
+    "bandwidth": 3.0
+  },
+  {
+    "name": "p23_s109_eps001",
+    "p": 23,
+    "seed": 109,
+    "kind": "cross",
+    "epsilon": 0.001
+  },
+  {
+    "name": "p23_s109_eps03",
+    "p": 23,
+    "seed": 109,
+    "kind": "cross",
+    "epsilon": 0.03
+  }
+]

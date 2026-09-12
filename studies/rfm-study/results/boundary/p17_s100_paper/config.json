@@ -1,0 +1,16 @@
+{
+  "p": 17,
+  "seed": 100,
+  "kind": "cross",
+  "epsilon": 0.01,
+  "amount": null,
+  "formula": "paper",
+  "centering": true,
+  "eig_cutoff": 0.0,
+  "ridge": 0.0,
+  "bandwidth": 2.5,
+  "iterations": 60,
+  "device": "cuda",
+  "dtype": "float64",
+  "timeout": 600
+}

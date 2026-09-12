@@ -1,0 +1,16 @@
+{
+  "p": 17,
+  "seed": 114,
+  "kind": "custom",
+  "epsilon": 0.01,
+  "amount": "p17_s114_phase_worst_control0.npz",
+  "formula": "code",
+  "centering": true,
+  "eig_cutoff": 0.0,
+  "ridge": 0.0,
+  "bandwidth": 2.5,
+  "iterations": 60,
+  "device": "cuda",
+  "dtype": "float64",
+  "timeout": 600
+}

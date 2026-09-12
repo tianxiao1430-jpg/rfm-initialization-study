@@ -1,0 +1,18 @@
+{
+  "p": 29,
+  "seed": 22,
+  "kind": "cross",
+  "epsilon": 0.01,
+  "formula": "code",
+  "kernel": "gaussian",
+  "bandwidth": 2.5,
+  "centering": true,
+  "project": false,
+  "eig_cutoff": 0.0,
+  "dtype": "float64",
+  "device": "cuda",
+  "ridge": 0.0,
+  "iterations": 60,
+  "split": "symmetric",
+  "timeout": 900
+}
