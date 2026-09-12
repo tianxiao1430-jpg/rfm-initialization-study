@@ -9,7 +9,7 @@
 
 This repository studies how relative Fourier signs in a Recursive Feature Machine
 (RFM) initialization affect modular-addition generalization under a symmetry
-fixed-point split. It contains the approved manuscript dated September 7, 2026,
+fixed-point split. It contains the manuscript dated September 7, 2026 (editorially revised September 12),
 its reproducible code/data package, and a **separate subsequent control study**.
 The control study has not been silently inserted into that manuscript.
 
@@ -91,13 +91,12 @@ and Tomàs et al., [Breaking Data Symmetry](https://arxiv.org/abs/2604.00316).
 Short-training selection also relates to [Successive Halving](https://proceedings.mlr.press/v51/jamieson16.html)
 and [Hyperband](https://www.jmlr.org/papers/v18/16-558.html).
 
-## Attribution and AI assistance
+## Attribution
 
-Author: Xiao Tian. The manuscript retains its approved author-contribution and
-AI-assistance statement. Codex assisted experiment planning, code, execution,
-analysis, checking and writing. Numerical claims refer to saved program outputs;
-independent peer review is not claimed. See [LICENSES.md](LICENSES.md), the GPL
-[LICENSE](LICENSE), and each study's original notices for upstream attribution.
+Author: Xiao Tian. OpenAI Codex provided research and manuscript assistance;
+the [paper](paper/main.pdf) describes its scope and the limits of validation.
+See [LICENSES.md](LICENSES.md), the GPL [LICENSE](LICENSE), and each study's
+original notices for upstream attribution.
 
 ## Hugging Face
 

@@ -6,7 +6,7 @@
 符号关系怎样影响RFM在模加法上的泛化。后续补充实验发现：当前40个新方向上，
 随机短训练筛选已达到100%，完整预测库未显示准确率优势。
 
-- [正式整理的论文 PDF](paper/main.pdf)，沿用2026-09-07已确认版本。
+- [正式整理的论文 PDF](paper/main.pdf)，2026-09-07稿，2026-09-12修订作者贡献段措辞。
 - [原论文配套代码与数据](studies/rfm-study/PUBLICATION_README.md)。
 - [后续对照实验报告](studies/initialization-selection/研究报告.md)。
 - [逐方向结果](studies/initialization-selection/evaluation/directions.csv)。
@@ -16,7 +16,7 @@
 844次原研究运行和160次选优都不等于同等数量的独立样本。小样本100%也不证明
 新设置下一直正确。当前没有可核实的公开arXiv编号或同行评审录用声明。
 
-源码保留GPL-3.0及上游署名；论文保留原作者贡献与AI辅助说明。
+源码保留GPL-3.0及上游署名。OpenAI Codex 提供研究与稿件辅助，具体范围和验证限制见论文作者贡献段。
 
 ## Hugging Face
 
