@@ -93,8 +93,7 @@ and [Hyperband](https://www.jmlr.org/papers/v18/16-558.html).
 
 ## Attribution
 
-Author: Xiao Tian. OpenAI Codex provided research and manuscript assistance;
-the [paper](paper/main.pdf) describes its scope and the limits of validation.
+Author: Xiao Tian. OpenAI Codex was used during the research.
 See [LICENSES.md](LICENSES.md), the GPL [LICENSE](LICENSE), and each study's
 original notices for upstream attribution.
 
