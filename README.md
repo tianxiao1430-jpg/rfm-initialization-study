@@ -53,6 +53,22 @@ selections and eight exact full-selector reruns.
 
 ![Selection control results](studies/initialization-selection/analysis/accuracy.png)
 
+## Training-time leader reversals (September 13 supplement)
+
+An analysis of the original saved trajectories finds that early leaders can be
+overtaken: all 80 primary directions have at least one test point whose step-5
+leader is later beaten. After step 10 this occurs in 5/80 directions (seven test
+points); pointwise leaders are stable from step 12 through the recorded step 59.
+Larger initial perturbations produce 27 correct-to-wrong transitions in 3/20
+matched directions, and uncentered gradients can delay a reversal to step 18.
+Stability does not imply correctness or causal locking.
+
+This is a **post hoc analysis of existing data**, separate from both the paper
+and the initialization-selection pilot.
+[Report, figures and all tables](studies/leader-reversals/README.md) ·
+[中文报告](studies/leader-reversals/研究报告.md) ·
+[Reproduction guide](studies/leader-reversals/PUBLICATION_README.md)
+
 ## Data and verification
 
 - Manuscript tables: [all runs](studies/rfm-study/results/all_runs.csv),
@@ -99,4 +115,4 @@ original notices for upstream attribution.
 
 ## Hugging Face
 
-[The complete research mirror](https://huggingface.co/datasets/tianxiao1430-jpg/rfm-initialization-study) is public on Hugging Face, including the paper, six result tables, reports and all three archives. Downloads are available from both platforms.
+[The complete research mirror](https://huggingface.co/datasets/tianxiao1430-jpg/rfm-initialization-study) is public on Hugging Face, including the paper, result tables, reports and all four archives. Downloads are available from both platforms.

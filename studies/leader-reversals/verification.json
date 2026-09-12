@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "source_hashes_verified": 4224,
+  "all_manifest_inputs_unchanged": true,
+  "semantic_edge_cases": [
+    "tie_bridge",
+    "wrong_tied_labels",
+    "recovery_after_loss",
+    "unresolved_start",
+    "always_tied"
+  ],
+  "independently_recomputed_primary_runs": 80,
+  "primary_anchor_integer_comparisons": 10400,
+  "all_event_witnesses_verified": 56452,
+  "aggregate_reconciliation": true,
+  "limits": "Independent analysis formulas on saved outputs; not independent model training or a proof of floating-point error bounds."
+}

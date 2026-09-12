@@ -1,0 +1,17 @@
+{
+  "primary_runs": 80,
+  "primary_points": 1540,
+  "primary_correctness_flips": 1254,
+  "primary_correct_to_wrong": 0,
+  "flips_at_8_or_9": 1168,
+  "latest_primary_point_reversal": 12,
+  "latest_primary_profile_reversal": 10,
+  "after10_runs": 5,
+  "after10_points": 7,
+  "matched_larger_amplitude_runs": 20,
+  "matched_larger_amplitude_demoted_runs": 3,
+  "matched_larger_amplitude_demotions": 27,
+  "boundary_latest_step": 18,
+  "all_steps_checked": 60,
+  "figures": 2
+}

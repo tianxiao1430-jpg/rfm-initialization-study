@@ -18,6 +18,17 @@
 
 源码保留GPL-3.0及上游署名。本研究过程中使用了 OpenAI Codex。
 
+## 2026-09-13：训练中的答案反转分析
+
+对原80个确认方向的已有轨迹检查发现：每个方向在第5步之后，都至少有一道题的领先答案被反超；第10步之后仍有5个方向、7道题发生反超，最晚到第12步。增大扰动后，20条配对轨迹中有3条出现先对后错；关闭梯度中心化后，反转最晚到第18步。
+
+这是对已有数据的事后补充分析，尚未解释反转机制。答案稳定也不等于答对。
+
+- [中文报告与图表](studies/leader-reversals/研究报告.md)
+- [全部反转事件](studies/leader-reversals/events.csv)
+- [数据口径及复算说明](studies/leader-reversals/PUBLICATION_README.md)
+- [v1.1.0补充分析下载包](https://github.com/tianxiao1430-jpg/rfm-initialization-study/releases/tag/v1.1.0)
+
 ## Hugging Face
 
-[完整研究镜像](https://huggingface.co/datasets/tianxiao1430-jpg/rfm-initialization-study)已在 Hugging Face 公开，包含论文、六份结果表、报告和全部三个数据包。两个平台均可下载。
+[完整研究镜像](https://huggingface.co/datasets/tianxiao1430-jpg/rfm-initialization-study)已在 Hugging Face 公开，包含论文、结果表、报告和全部四个数据包。两个平台均可下载。

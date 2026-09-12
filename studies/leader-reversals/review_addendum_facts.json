@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "primary_points": 1540,
+  "all_initially_wrong": true,
+  "final_correct_points": 1254,
+  "final_correct_each_exactly_one_flip": true,
+  "final_wrong_points": 286,
+  "final_wrong_ever_clearly_correct": 0,
+  "points_with_multiple_correctness_flips": 0,
+  "primary_runs": 80,
+  "metric_snapshots_per_run": [
+    0,
+    1,
+    2,
+    5,
+    10,
+    59
+  ],
+  "runs_with_step8_or_step9_metric_snapshot": 0,
+  "limits": "Post hoc endpoint strata are descriptive, not independent groups or causal explanations. Correctness flips differ from wrong-class leader replacements. No step-8/9 metric snapshots exist in this archive."
+}

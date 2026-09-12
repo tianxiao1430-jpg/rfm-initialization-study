@@ -1,0 +1,30 @@
+{
+  "listed_runs": 844,
+  "read_runs": 844,
+  "step_records": 47940,
+  "max_metric_error": {
+    "acc": 1.1102230246251565e-16,
+    "mse": 2.7755575615628914e-17,
+    "mean_margin": 5.551115123125783e-17,
+    "min_margin": 0
+  },
+  "checks": [
+    "all listed histories present",
+    "confirmation plan exact coverage",
+    "all labels and test ordering correct",
+    "all histories finite FP64",
+    "every history endpoint equals stored pred",
+    "all 47940 metric rows recomputed",
+    "all 844 final accuracies match published table"
+  ],
+  "phases": {
+    "discovery": 82,
+    "probe": 50,
+    "operator": 112,
+    "confirmation": 80,
+    "intervention": 360,
+    "boundary": 160
+  },
+  "complete_60_evaluation_runs": 794,
+  "partial_6_evaluation_runs": 50
+}
