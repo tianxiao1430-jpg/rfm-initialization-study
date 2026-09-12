@@ -101,4 +101,4 @@ independent peer review is not claimed. See [LICENSES.md](LICENSES.md), the GPL
 
 ## Hugging Face
 
-[Research description and download index](https://huggingface.co/datasets/tianxiao1430-jpg/rfm-initialization-study) are also public on Hugging Face. Complete archives are hosted in the GitHub release; the Hugging Face file mirror is pending.
+[The complete research mirror](https://huggingface.co/datasets/tianxiao1430-jpg/rfm-initialization-study) is public on Hugging Face, including the paper, six result tables, reports and all three archives. Downloads are available from both platforms.

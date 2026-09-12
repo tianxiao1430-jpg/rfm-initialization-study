@@ -20,4 +20,4 @@
 
 ## Hugging Face
 
-[研究介绍与下载入口](https://huggingface.co/datasets/tianxiao1430-jpg/rfm-initialization-study)已在 Hugging Face 公开。完整数据包目前通过 GitHub Release 下载；Hugging Face 文件镜像尚未上传完成。
+[完整研究镜像](https://huggingface.co/datasets/tianxiao1430-jpg/rfm-initialization-study)已在 Hugging Face 公开，包含论文、六份结果表、报告和全部三个数据包。两个平台均可下载。
